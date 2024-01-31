@@ -26,16 +26,16 @@ const translation = {
   "CameraDisclosure": {
     "AllowCameraUse": "Allow camera use",
     "CameraDisclosure": "The camera is used to scan QR codes that initiate a credential offer or credential request. No information about the images is stored, used for analytics, or shared.",
-    "ToContinueUsing": "To continue using the BC Wallet scan feature, please allow camera permissions.",
+    "ToContinueUsing": "To continue using the DIDx Wallet scan feature, please allow camera permissions.",
     "Allow": "Allow",
     "OpenSettings": "Open settings",
   },
   "Biometry": {
     "Toggle": "Toggle Biometrics",
     "EnabledText1": "Log in with your phone's biometrics instead of your wallet PIN.",
-    "EnabledText1Bold": "you will need to use biometrics to open your BC Wallet.",
-    "EnabledText2": "This means all fingerprint and facial data added on this phone can be used to access your BC Wallet.",
-    "EnabledText3": "Anyone who can access your phone with biometrics can access your BC Wallet.",
+    "EnabledText1Bold": "you will need to use biometrics to open your DIDx Wallet.",
+    "EnabledText2": "This means all fingerprint and facial data added on this phone can be used to access your DIDx Wallet.",
+    "EnabledText3": "Anyone who can access your phone with biometrics can access your DIDx Wallet.",
     "EnabledText3Bold": "Ensure only you have access to your wallet.",
     "Warning": "Ensure only you have access to your wallet.",
     "UseToUnlock": "Use biometrics to unlock wallet?"
@@ -47,24 +47,24 @@ const translation = {
   },
   "Onboarding": {
     "DifferentWalletHeading": "A different smart wallet",
-    "DifferentWalletParagraph": "Unlike other digital wallets, BC Wallet helps you prove who you are in-person or online by storing and using digital credentials issued by participating services.\n\nInteract with confidence with individuals and organisations you trust.",
+    "DifferentWalletParagraph": "Unlike other digital wallets, DIDx Wallet helps you prove who you are in-person or online by storing and using digital credentials issued by participating services.\n\nInteract with confidence with individuals and organisations you trust.",
     "DigitalCredentialsHeading": "Digital credentials",
     "DigitalCredentialsParagraph": "Digital credentials are the electronic equivalent of physical credentials such as certifications and permits offered by participating services.\n\nServices are simplified and expedited as organisations and individuals can confirm who you are with trusted information from digital credentials.",
     "PrivateConfidentialHeading": "Private and confidential",
-    "PrivateConfidentialParagraph": "Your privacy is important.\n\nThe B.C. government doesn't know when you use digital credentials, unless you're interacting with them. No analytics are recorded.\n\nYou approve every use of your digital credentials, and only provide the information that's needed.",
+    "PrivateConfidentialParagraph": "Your privacy is important.\n\nDIDx doesn't know when you use digital credentials, unless you're interacting with them. No analytics are recorded.",
     "GetStarted": "Get Started",
   },
   "Preface": {
-    "Paragraph1": "Most people will not have a need for BC Wallet because very few digital credentials are currently available.",
-    "Link1": "See where you can use BC Wallet",
-    "Paragraph2": "If BC Wallet isn't what you're looking for but you're curious, check out our",
-    "Link2": "BC Wallet showcase",
+    "Paragraph1": "This app is used to receive, store and present verifiable credentials (VCs).",
+    "Link1": "See where you can use DIDx Wallet",
+    "Paragraph2": "If DIDx Wallet isn't what you're looking for but you're curious, check out our",
+    "Link2": "DIDx Wallet showcase",
   },
   "Screens": {
-    "Onboarding": "BC Wallet",
+    "Onboarding": "DIDx Wallet",
     "Terms": "Terms of Use",
     "Settings": "Menu",
-    "Preface": "BC Wallet",
+    "Preface": "DIDx Wallet",
   },
   "PersonCredentialNotification": {
     "Title": "Get your Person credential",
@@ -72,23 +72,23 @@ const translation = {
     "ButtonTitle": "Start",
   },
   "PersonCredential": {
-    "Issuer": "Service BC",
+    "Issuer": "Service DIDx",
     "Name": "Person",
     "GivenName": "Sample Given Name",
     "FamilyName": "Sample Family Name",
-    "Description": "Add your Person credential to your wallet to prove your personal information online and get access to services online.\n\nYou'll need the BC Service Card app set up on this mobile device.",
-    "LinkDescription": "Get the BC Services Card app",
+    "Description": "Add your Person credential to your wallet to prove your personal information online and get access to services online.\n\nYou'll need the DIDx Service Card app set up on this mobile device.",
+    "LinkDescription": "Get the DIDx Services Card app",
     "GetCredential": "Get your Person credential",
     "Decline": "Get this later",
     "PageTitle": "Person Credential"
   },
   "NetInfo": {
     "NoInternetConnectionTitle": "No internet connection",
-    "NoInternetConnectionMessage": "You're unable to access services using BC Wallet or receive credentials until you're back online.\n\nPlease check your internet connection."
+    "NoInternetConnectionMessage": "You're unable to access services using DIDx Wallet or receive credentials until you're back online.\n\nPlease check your internet connection."
   },
   "Tour": {
-    "GuideTitle": "Welcome to BC Wallet",
-    "WouldYouLike": "Would you like some guidance on how to use BC Wallet?",
+    "GuideTitle": "Welcome to DIDx Wallet",
+    "WouldYouLike": "Would you like some guidance on how to use DIDx Wallet?",
     "UseAppGuides": "Use app guides",
     "DoNotUseAppGuides": "Don't use app guides",
     "AddAndShare": "Add and share credentials",
@@ -111,8 +111,8 @@ const translation = {
   "Settings": {
     "Help": "Help",
     "MoreInformation": "More Information",
-    "PlayWithBCWallet": "Play with BC Wallet",
-    "HelpUsingBCWallet": "Help using BC Wallet",
+    "PlayWithBCWallet": "Play with DIDx Wallet",
+    "HelpUsingBCWallet": "Help using DIDx Wallet",
     "GiveFeedback": "Give feedback",
     "ReportAProblem": "Report a problem",
     "TermsOfUse": "Terms of use",
@@ -133,7 +133,7 @@ const translation = {
   "Tips": {
     "Header": "Tips",
     "GettingReady": "Getting your wallet ready...",
-    "Tip1": "For extra security, BC Wallet locks the app after 5 minutes of inactivity",
+    "Tip1": "For extra security, DIDx Wallet locks the app after 5 minutes of inactivity",
     "Tip2": "Unlike showing physical cards, you share only what is necessary from your credentials",
     "Tip3": "Your credentials are stored only on this phone, nowhere else",
     "Tip4": "Information is sent and received over an untraceable encrypted connection",
@@ -182,10 +182,10 @@ const translation = {
     "ScanQRCode": "Scan a QR code",
   },
   "Scan": {
-    "ScanOnySpecial": "Only special QR codes can be scanned by BC Wallet.",
-    "ScanOnlySpecial3": "BC Wallet currently doesn't support adding digital credential by scanning or taking photos of physical ones.",
-    "WhereToUseLink": "See where you can use BC Wallet",
-    "BadQRCodeDescription": "Ths QR code scanned doesn't work with BC Wallet. BC Wallet only works with participating services.\n\nIt currently can't add digital credentials by taking photos of physical ones."
+    "ScanOnySpecial": "Only special QR codes can be scanned by DIDx Wallet.",
+    "ScanOnlySpecial3": "DIDx Wallet currently doesn't support adding digital credential by scanning or taking photos of physical ones.",
+    "WhereToUseLink": "See where you can use DIDx Wallet",
+    "BadQRCodeDescription": "Ths QR code scanned doesn't work with DIDx Wallet. DIDx Wallet only works with participating services.\n\nIt currently can't add digital credentials by taking photos of physical ones."
   },
   "RemoteLogging": {
     "ScreenTitle": "Remote Logging",

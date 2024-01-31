@@ -57,9 +57,6 @@ const Preface: React.FC = () => {
             <Assets.svg.preface style={{ alignSelf: 'center', marginBottom: 20 }} height={200} />
             <Text style={[TextTheme.headingTwo]}>{t('Preface.PrimaryHeading')}</Text>
             <Text style={[TextTheme.normal, { marginTop: 10, marginBottom: 10 }]}>{t('Preface.Paragraph1')}</Text>
-            <Link style={{ marginTop: 10, marginBottom: 10 }} onPress={onPressInfoLink} linkText={t('Preface.Link1')} />
-            <Text style={[TextTheme.normal, { marginTop: 10 }]}>{t('Preface.Paragraph2')}</Text>
-            <Link onPress={onPressShowcaseLink} linkText={`${t('Preface.Link2')}.`} />
           </View>
           <View style={style.controlsContainer}>
             <CheckBoxRow

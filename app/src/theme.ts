@@ -684,8 +684,8 @@ export const Assets: IAssets = {
     },
     logoPrimary: {
       src: require('./assets/img/logo-large-white.png'),
-      height: 170,
-      width: 170,
+      height: 100,
+      width: 190,
     },
   },
 }
