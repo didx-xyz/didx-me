@@ -62,7 +62,7 @@ const BrandColors: IBrandColors = {
   primaryDisabled: `#757575`,
   secondary: '#FFFFFFFF',
   secondaryDisabled: `#757575`,
-  primaryLight: '#000000',
+  primaryLight: '#D9EAF7',
   highlight: '#7be1f6',
   primaryBackground: '#F2F2F2',
   secondaryBackground: '#FFFFFF',
