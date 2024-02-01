@@ -25,6 +25,7 @@ import { Buffer } from 'buffer'
 import React, { createContext, useContext, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { DeviceEventEmitter, Platform } from 'react-native'
+import Config from 'react-native-config'
 // eslint-disable-next-line import/no-extraneous-dependencies
 import { Subscription } from 'rxjs'
 
@@ -33,6 +34,7 @@ import { removeExistingInvitationIfRequired } from '../helpers/BCIDHelper'
 enum Action {
   RequestNonce = 'request_nonce',
   RequestAttestation = 'request_attestation',
+  ReportFailure = 'report_failure',
   ChallengeResponse = 'challenge_response',
 }
 
@@ -68,10 +70,6 @@ const attestationCredDefIds = [
   'J6LCm5Edi9Mi3ASZCqNC1A:3:CL:109799:dev-attestation',
   'NxWbeuw8Y2ZBiTrGpcK7Tn:3:CL:48312:default',
 ]
-
-// change this URL to a multi use connection from your traction instance for testing
-const attestationInviteUrl =
-  'https://traction-acapy-dev.apps.silver.devops.gov.bc.ca?c_i=eyJAdHlwZSI6ICJodHRwczovL2RpZGNvbW0ub3JnL2Nvbm5lY3Rpb25zLzEuMC9pbnZpdGF0aW9uIiwgIkBpZCI6ICI3YjNhMGE5Yi05YzBiLTRjYmUtODRlZC05Y2MwNmEyNmE0ZjYiLCAibGFiZWwiOiAiYnJ5Y2VtY21hdGgiLCAicmVjaXBpZW50S2V5cyI6IFsiMnlKMW9WMVlXcDJGTGIyVGR0ZmU2M1lKVTVEb0dHcHZuc3FkeXVTU3NUQnEiXSwgInNlcnZpY2VFbmRwb2ludCI6ICJodHRwczovL3RyYWN0aW9uLWFjYXB5LWRldi5hcHBzLnNpbHZlci5kZXZvcHMuZ292LmJjLmNhIn0='
 
 // proof requests can vary wildly but we'll know attestation requests must contain the cred def id as a restriction
 interface IndyRequest {
@@ -131,6 +129,7 @@ const requestNonce = async (agent: BifoldAgent, connectionRecord: ConnectionReco
 export interface AttestationX {
   start: () => Promise<void>
   stop: () => Promise<void>
+  loading: boolean
 }
 
 export const AttestationContext = createContext<AttestationX>(null as unknown as AttestationX)
@@ -141,6 +140,7 @@ export const AttestationProvider: React.FC<AttestationProviderParams> = ({ child
   const [messageSubscription, setMessageSubscription] = useState<Subscription>()
   const [proofSubscription, setProofSubscription] = useState<Subscription>()
   const [offerSubscription, setOfferSubscription] = useState<Subscription>()
+  const [loading, setLoading] = useState(false)
 
   const isInfrastructureMessage = (record: BasicMessageRecord): boolean => {
     if (record.content) {
@@ -196,11 +196,17 @@ export const AttestationProvider: React.FC<AttestationProviderParams> = ({ child
 
             return attestationResponse
           } else {
+            setLoading(false)
             return null
           }
         } catch (error: unknown) {
+          setLoading(false)
           return null
         }
+
+      case Action.ReportFailure:
+        setLoading(false)
+        return null
 
       default:
         return null
@@ -257,8 +263,12 @@ export const AttestationProvider: React.FC<AttestationProviderParams> = ({ child
         return
       }
 
+      // officially start attestation process here
+      setLoading(true)
+
       // 1. Is the proof requesting an attestation credential
       if (!(await isProofRequestingAttestation(proof, agent))) {
+        setLoading(false)
         return
       }
 
@@ -267,13 +277,15 @@ export const AttestationProvider: React.FC<AttestationProviderParams> = ({ child
 
       // 3. If yes, do nothing
       if (availableAttestationCredentials.length > 0) {
+        setLoading(false)
         return
       }
 
       // 4. If no, start attestation flow by requesting a nonce from controller
-      const invite = await agent.oob.parseInvitation(attestationInviteUrl)
+      const invite = await agent.oob.parseInvitation(Config.ATTESTATION_INVITE_URL!)
 
       if (!invite) {
+        setLoading(false)
         const err = new BifoldError(
           t('Error.Title2027'),
           t('Error.Message2027'),
@@ -289,6 +301,7 @@ export const AttestationProvider: React.FC<AttestationProviderParams> = ({ child
       const { connectionRecord } = await agent.oob.receiveInvitation(invite)
 
       if (!connectionRecord) {
+        setLoading(false)
         const err = new BifoldError(
           t('Error.Title2028'),
           t('Error.Message2028'),
@@ -305,6 +318,7 @@ export const AttestationProvider: React.FC<AttestationProviderParams> = ({ child
       // the traction instance which is why we need to removeExistingInvitationIfRequired above
       await requestNonce(agent, connectedRecord)
     } catch (error: unknown) {
+      setLoading(false)
       const err = new BifoldError(
         t('Error.Title2029'),
         t('Error.Message2029'),
@@ -320,11 +334,21 @@ export const AttestationProvider: React.FC<AttestationProviderParams> = ({ child
       const { offer } = await agent.credentials.getFormatData(record.id)
       const offerData = offer?.anoncreds ?? offer?.indy
 
-      if (
-        record.state === CredentialState.OfferReceived &&
-        attestationCredDefIds.includes(offerData?.cred_def_id ?? '')
-      ) {
-        agent.credentials.acceptOffer({ credentialRecordId: record.id })
+      // do nothing if not an attestation credential
+      if (!attestationCredDefIds.includes(offerData?.cred_def_id ?? '')) {
+        return
+      }
+
+      // if it's a new offer, automatically accept
+      if (record.state === CredentialState.OfferReceived) {
+        await agent.credentials.acceptOffer({
+          credentialRecordId: record.id,
+        })
+      }
+
+      // only finish loading state once credential is fully accepted
+      if (record.state === CredentialState.Done) {
+        setLoading(false)
       }
     } catch (error: unknown) {
       /* noop */
@@ -384,6 +408,8 @@ export const AttestationProvider: React.FC<AttestationProviderParams> = ({ child
   }
 
   const stop = async () => {
+    setLoading(false)
+
     if (messageSubscription) {
       messageSubscription.unsubscribe()
       setMessageSubscription(undefined)
@@ -401,6 +427,7 @@ export const AttestationProvider: React.FC<AttestationProviderParams> = ({ child
   const value = {
     start,
     stop,
+    loading,
   }
 
   return <AttestationContext.Provider value={value}>{children}</AttestationContext.Provider>
