@@ -7,7 +7,7 @@ import Icon from 'react-native-vector-icons/MaterialCommunityIcons'
 import { surveyMonkeyUrl, surveyMonkeyExitUrl } from '../constants'
 import WebDisplay from '../screens/WebDisplay'
 
-interface HomeFooterViewProps extends PropsWithChildren {}
+interface HomeFooterViewProps extends PropsWithChildren { }
 
 const HomeFooterView = ({ children }: HomeFooterViewProps) => {
   const { ColorPallet } = useTheme()

@@ -58,15 +58,15 @@ const GrayscaleColors: IGrayscaleColors = {
 }
 
 const BrandColors: IBrandColors = {
-  primary: '#003366',
+  primary: '#404040',
   primaryDisabled: `#757575`,
   secondary: '#FFFFFFFF',
   secondaryDisabled: `#757575`,
   primaryLight: '#D9EAF7',
-  highlight: '#FCBA19',
+  highlight: '#7be1f6',
   primaryBackground: '#F2F2F2',
   secondaryBackground: '#FFFFFF',
-  modalPrimary: '#003366',
+  modalPrimary: '#404040',
   modalSecondary: '#FFFFFFFF',
   modalPrimaryBackground: '#FFFFFF',
   modalSecondaryBackground: '#F2F2F2',
@@ -601,7 +601,7 @@ export const ChatTheme = {
     textAlign: 'center',
   },
   documentIconContainer: {
-    backgroundColor: '#1c70bf',
+    backgroundColor: '#7be1f6',
     alignSelf: 'flex-start',
     padding: 4,
     borderRadius: 8,
@@ -703,8 +703,8 @@ export const Assets: IAssets = {
     },
     logoPrimary: {
       src: require('./assets/img/logo-large-white.png'),
-      height: 170,
-      width: 170,
+      height: 100,
+      width: 190,
     },
   },
 }

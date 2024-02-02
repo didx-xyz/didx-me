@@ -1,146 +1,1454 @@
-<svg id="Group_2459" data-name="Group 2459" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200" viewBox="0 0 200 200">
-  <defs>
-    <clipPath id="clip-path">
-      <rect id="Rectangle_1802" data-name="Rectangle 1802" width="200" height="200" fill="none"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Group_2459"
+   data-name="Group 2459"
+   width="200"
+   height="200"
+   viewBox="0 0 200 200"
+   version="1.1"
+   sodipodi:docname="scan-share.svg"
+   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="4.08"
+     inkscape:cx="99.877451"
+     inkscape:cy="100"
+     inkscape:window-width="1850"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Group_2459"
+     showgrid="false" />
+  <defs
+     id="defs1">
+    <clipPath
+       id="clip-path">
+      <rect
+         id="Rectangle_1802"
+         data-name="Rectangle 1802"
+         width="200"
+         height="200"
+         fill="none" />
     </clipPath>
   </defs>
-  <rect id="Rectangle_1680" data-name="Rectangle 1680" width="17.509" height="17.509" transform="translate(47.474 60.443)" fill="#335c85"/>
-  <rect id="Rectangle_1681" data-name="Rectangle 1681" width="8.754" height="8.754" transform="translate(91.246 95.461)" fill="#335c85"/>
-  <rect id="Rectangle_1682" data-name="Rectangle 1682" width="8.754" height="8.754" transform="translate(100 86.707)" fill="#335c85"/>
-  <rect id="Rectangle_1683" data-name="Rectangle 1683" width="8.754" height="8.754" transform="translate(91.246 77.952)" fill="#335c85"/>
-  <rect id="Rectangle_1684" data-name="Rectangle 1684" width="8.754" height="8.754" transform="translate(100 69.198)" fill="#335c85"/>
-  <rect id="Rectangle_1685" data-name="Rectangle 1685" width="8.754" height="8.754" transform="translate(91.246 60.444)" fill="#335c85"/>
-  <rect id="Rectangle_1686" data-name="Rectangle 1686" width="8.754" height="8.754" transform="translate(100 51.69)" fill="#335c85"/>
-  <rect id="Rectangle_1687" data-name="Rectangle 1687" width="8.754" height="8.754" transform="translate(100 60.444)" fill="#335c85"/>
-  <rect id="Rectangle_1688" data-name="Rectangle 1688" width="8.754" height="8.754" transform="translate(91.246 42.935)" fill="#335c85"/>
-  <rect id="Rectangle_1689" data-name="Rectangle 1689" width="8.754" height="8.754" transform="translate(29.966 104.215)" fill="#335c85"/>
-  <rect id="Rectangle_1690" data-name="Rectangle 1690" width="8.754" height="8.754" transform="translate(47.475 104.215)" fill="#335c85"/>
-  <rect id="Rectangle_1691" data-name="Rectangle 1691" width="8.754" height="8.754" transform="translate(73.737 104.215)" fill="#335c85"/>
-  <rect id="Rectangle_1692" data-name="Rectangle 1692" width="8.754" height="8.754" transform="translate(100 104.215)" fill="#335c85"/>
-  <rect id="Rectangle_1693" data-name="Rectangle 1693" width="8.754" height="8.754" transform="translate(117.509 104.215)" fill="#335c85"/>
-  <rect id="Rectangle_1694" data-name="Rectangle 1694" width="8.754" height="8.754" transform="translate(135.017 104.215)" fill="#335c85"/>
-  <rect id="Rectangle_1695" data-name="Rectangle 1695" width="8.754" height="8.754" transform="translate(152.526 104.215)" fill="#335c85"/>
-  <rect id="Rectangle_1696" data-name="Rectangle 1696" width="8.754" height="8.754" transform="translate(38.72 112.97)" fill="#335c85"/>
-  <rect id="Rectangle_1697" data-name="Rectangle 1697" width="8.754" height="8.754" transform="translate(56.229 112.97)" fill="#335c85"/>
-  <rect id="Rectangle_1698" data-name="Rectangle 1698" width="8.754" height="8.754" transform="translate(91.246 112.97)" fill="#335c85"/>
-  <rect id="Rectangle_1699" data-name="Rectangle 1699" width="8.754" height="8.754" transform="translate(73.737 112.97)" fill="#335c85"/>
-  <rect id="Rectangle_1700" data-name="Rectangle 1700" width="8.754" height="8.754" transform="translate(108.755 112.97)" fill="#335c85"/>
-  <rect id="Rectangle_1701" data-name="Rectangle 1701" width="8.754" height="8.754" transform="translate(117.509 112.97)" fill="#335c85"/>
-  <rect id="Rectangle_1702" data-name="Rectangle 1702" width="8.754" height="8.754" transform="translate(126.263 112.97)" fill="#335c85"/>
-  <rect id="Rectangle_1703" data-name="Rectangle 1703" width="8.754" height="8.754" transform="translate(143.772 112.97)" fill="#335c85"/>
-  <rect id="Rectangle_1704" data-name="Rectangle 1704" width="8.754" height="8.754" transform="translate(152.526 112.97)" fill="#335c85"/>
-  <rect id="Rectangle_1705" data-name="Rectangle 1705" width="8.754" height="8.754" transform="translate(100 121.724)" fill="#335c85"/>
-  <rect id="Rectangle_1706" data-name="Rectangle 1706" width="8.754" height="8.754" transform="translate(117.509 121.724)" fill="#335c85"/>
-  <rect id="Rectangle_1707" data-name="Rectangle 1707" width="8.754" height="8.754" transform="translate(135.017 121.724)" fill="#335c85"/>
-  <rect id="Rectangle_1708" data-name="Rectangle 1708" width="8.754" height="8.754" transform="translate(143.772 121.724)" fill="#335c85"/>
-  <rect id="Rectangle_1709" data-name="Rectangle 1709" width="8.754" height="8.754" transform="translate(161.28 121.724)" fill="#335c85"/>
-  <rect id="Rectangle_1710" data-name="Rectangle 1710" width="8.754" height="8.754" transform="translate(91.246 130.478)" fill="#335c85"/>
-  <rect id="Rectangle_1711" data-name="Rectangle 1711" width="8.754" height="8.754" transform="translate(100 130.478)" fill="#335c85"/>
-  <rect id="Rectangle_1712" data-name="Rectangle 1712" width="8.754" height="8.754" transform="translate(108.755 130.478)" fill="#335c85"/>
-  <rect id="Rectangle_1713" data-name="Rectangle 1713" width="8.754" height="8.754" transform="translate(135.017 130.478)" fill="#335c85"/>
-  <rect id="Rectangle_1714" data-name="Rectangle 1714" width="8.754" height="8.754" transform="translate(152.526 130.478)" fill="#335c85"/>
-  <rect id="Rectangle_1715" data-name="Rectangle 1715" width="8.754" height="8.754" transform="translate(117.509 139.232)" fill="#335c85"/>
-  <rect id="Rectangle_1716" data-name="Rectangle 1716" width="8.754" height="8.754" transform="translate(126.263 139.232)" fill="#335c85"/>
-  <rect id="Rectangle_1717" data-name="Rectangle 1717" width="8.754" height="8.754" transform="translate(143.772 139.232)" fill="#335c85"/>
-  <rect id="Rectangle_1718" data-name="Rectangle 1718" width="8.754" height="8.754" transform="translate(152.526 139.232)" fill="#335c85"/>
-  <rect id="Rectangle_1719" data-name="Rectangle 1719" width="8.754" height="8.754" transform="translate(91.246 147.987)" fill="#335c85"/>
-  <rect id="Rectangle_1720" data-name="Rectangle 1720" width="8.754" height="8.754" transform="translate(100 147.987)" fill="#335c85"/>
-  <rect id="Rectangle_1721" data-name="Rectangle 1721" width="8.754" height="8.754" transform="translate(117.509 147.987)" fill="#335c85"/>
-  <rect id="Rectangle_1722" data-name="Rectangle 1722" width="8.754" height="8.754" transform="translate(135.017 147.987)" fill="#335c85"/>
-  <rect id="Rectangle_1723" data-name="Rectangle 1723" width="8.754" height="8.754" transform="translate(143.772 147.987)" fill="#335c85"/>
-  <rect id="Rectangle_1724" data-name="Rectangle 1724" width="8.754" height="8.754" transform="translate(161.28 147.987)" fill="#335c85"/>
-  <rect id="Rectangle_1725" data-name="Rectangle 1725" width="8.754" height="8.754" transform="translate(100 156.741)" fill="#335c85"/>
-  <rect id="Rectangle_1726" data-name="Rectangle 1726" width="8.754" height="8.754" transform="translate(108.755 156.741)" fill="#335c85"/>
-  <rect id="Rectangle_1727" data-name="Rectangle 1727" width="8.754" height="8.754" transform="translate(126.263 156.741)" fill="#335c85"/>
-  <rect id="Rectangle_1728" data-name="Rectangle 1728" width="8.754" height="8.754" transform="translate(143.772 156.741)" fill="#335c85"/>
-  <rect id="Rectangle_1729" data-name="Rectangle 1729" width="8.754" height="8.754" transform="translate(152.526 156.741)" fill="#335c85"/>
-  <rect id="Rectangle_1730" data-name="Rectangle 1730" width="8.754" height="8.754" transform="translate(161.28 156.741)" fill="#335c85"/>
-  <rect id="Rectangle_1731" data-name="Rectangle 1731" width="8.754" height="8.754" transform="translate(91.246 165.495)" fill="#335c85"/>
-  <rect id="Rectangle_1732" data-name="Rectangle 1732" width="8.754" height="8.754" transform="translate(108.755 165.495)" fill="#335c85"/>
-  <rect id="Rectangle_1733" data-name="Rectangle 1733" width="8.754" height="8.754" transform="translate(117.509 165.495)" fill="#335c85"/>
-  <rect id="Rectangle_1734" data-name="Rectangle 1734" width="8.754" height="8.754" transform="translate(135.017 165.495)" fill="#335c85"/>
-  <rect id="Rectangle_1735" data-name="Rectangle 1735" width="8.754" height="8.754" transform="translate(152.526 165.495)" fill="#335c85"/>
-  <rect id="Rectangle_1736" data-name="Rectangle 1736" width="8.754" height="8.754" transform="translate(100 174.25)" fill="#335c85"/>
-  <rect id="Rectangle_1737" data-name="Rectangle 1737" width="8.754" height="8.754" transform="translate(126.263 174.25)" fill="#335c85"/>
-  <rect id="Rectangle_1738" data-name="Rectangle 1738" width="8.754" height="8.754" transform="translate(152.526 174.25)" fill="#335c85"/>
-  <path id="Path_695" data-name="Path 695" d="M74.689,87.658H37.768V50.737H74.689Zm7.8-44.723H29.965V95.461H82.491Z" fill="#335c85"/>
-  <rect id="Rectangle_1739" data-name="Rectangle 1739" width="17.509" height="17.509" transform="translate(47.474 147.924)" fill="#335c85"/>
-  <path id="Path_696" data-name="Path 696" d="M74.689,175.139H37.768V138.218H74.689Zm7.8-44.724H29.965v52.526H82.491Z" fill="#335c85"/>
-  <rect id="Rectangle_1740" data-name="Rectangle 1740" width="17.509" height="17.509" transform="translate(135.017 60.443)" fill="#335c85"/>
-  <path id="Path_697" data-name="Path 697" d="M162.232,87.658H125.311V50.737h36.921Zm7.8-44.723H117.508V95.461h52.526Z" fill="#335c85"/>
-  <g id="Group_2458" data-name="Group 2458">
-    <g id="Group_2457" data-name="Group 2457" clip-path="url(#clip-path)">
-      <path id="Path_698" data-name="Path 698" d="M130.177,5.482H68.037a15.005,15.005,0,0,0-15,15v138.84a15.005,15.005,0,0,0,15,15h62.14a15.005,15.005,0,0,0,15-15V20.482a15.005,15.005,0,0,0-15-15M88.7,10.9h22.11a1.885,1.885,0,0,1,0,3.77H88.7a1.885,1.885,0,0,1,0-3.77m50.46,131.53a6.323,6.323,0,0,1-6.32,6.33H65.377a6.323,6.323,0,0,1-6.32-6.33V27.042a6.321,6.321,0,0,1,6.32-6.32h67.46a6.321,6.321,0,0,1,6.32,6.32Z" fill="#036"/>
-      <path id="Path_699" data-name="Path 699" d="M132.837,20.722H65.377a6.321,6.321,0,0,0-6.32,6.32v115.39a6.323,6.323,0,0,0,6.32,6.33h67.46a6.323,6.323,0,0,0,6.32-6.33V27.042a6.321,6.321,0,0,0-6.32-6.32" fill="#8099b3"/>
-      <path id="Path_700" data-name="Path 700" d="M96.632,153.817a8.112,8.112,0,1,1-5.25,10.2,8.11,8.11,0,0,1,5.25-10.2" fill="#8099b3"/>
-      <path id="Path_701" data-name="Path 701" d="M64.266,72.773a2,2,0,0,1-2-2V49.9a2,2,0,0,1,2-2H85.138a2,2,0,0,1,0,4H66.266V70.773a2,2,0,0,1-2,2" fill="#fcba19"/>
-      <path id="Path_702" data-name="Path 702" d="M133.948,72.773a2,2,0,0,1-2-2V51.9H113.076a2,2,0,1,1,0-4h20.872a2,2,0,0,1,2,2V70.773a2,2,0,0,1-2,2" fill="#fcba19"/>
-      <path id="Path_703" data-name="Path 703" d="M133.949,121.583H113.077a2,2,0,0,1,0-4h18.872V98.711a2,2,0,0,1,4,0v20.872a2,2,0,0,1-2,2" fill="#fcba19"/>
-      <path id="Path_704" data-name="Path 704" d="M85.138,121.583H64.266a2,2,0,0,1-2-2V98.711a2,2,0,0,1,4,0v18.872H85.138a2,2,0,0,1,0,4" fill="#fcba19"/>
-      <rect id="Rectangle_1741" data-name="Rectangle 1741" width="6.732" height="6.732" transform="translate(78.908 64.543)" fill="#036"/>
-      <rect id="Rectangle_1742" data-name="Rectangle 1742" width="3.366" height="3.366" transform="translate(95.738 78.007)" fill="#036"/>
-      <rect id="Rectangle_1743" data-name="Rectangle 1743" width="3.366" height="3.366" transform="translate(99.104 74.641)" fill="#036"/>
-      <rect id="Rectangle_1744" data-name="Rectangle 1744" width="3.366" height="3.366" transform="translate(95.738 71.275)" fill="#036"/>
-      <rect id="Rectangle_1745" data-name="Rectangle 1745" width="3.366" height="3.366" transform="translate(99.104 67.909)" fill="#036"/>
-      <rect id="Rectangle_1746" data-name="Rectangle 1746" width="3.366" height="3.366" transform="translate(95.738 64.543)" fill="#036"/>
-      <rect id="Rectangle_1747" data-name="Rectangle 1747" width="3.366" height="3.366" transform="translate(99.104 61.177)" fill="#036"/>
-      <rect id="Rectangle_1748" data-name="Rectangle 1748" width="3.366" height="3.366" transform="translate(99.104 64.543)" fill="#036"/>
-      <rect id="Rectangle_1749" data-name="Rectangle 1749" width="3.366" height="3.366" transform="translate(95.738 57.811)" fill="#036"/>
-      <rect id="Rectangle_1750" data-name="Rectangle 1750" width="3.366" height="3.366" transform="translate(72.176 81.373)" fill="#036"/>
-      <rect id="Rectangle_1751" data-name="Rectangle 1751" width="3.366" height="3.366" transform="translate(78.908 81.373)" fill="#036"/>
-      <rect id="Rectangle_1752" data-name="Rectangle 1752" width="3.366" height="3.366" transform="translate(89.006 81.373)" fill="#036"/>
-      <rect id="Rectangle_1753" data-name="Rectangle 1753" width="3.366" height="3.366" transform="translate(99.104 81.373)" fill="#036"/>
-      <rect id="Rectangle_1754" data-name="Rectangle 1754" width="3.366" height="3.366" transform="translate(105.835 81.373)" fill="#036"/>
-      <rect id="Rectangle_1755" data-name="Rectangle 1755" width="3.366" height="3.366" transform="translate(112.567 81.373)" fill="#036"/>
-      <rect id="Rectangle_1756" data-name="Rectangle 1756" width="3.366" height="3.366" transform="translate(119.299 81.373)" fill="#036"/>
-      <rect id="Rectangle_1757" data-name="Rectangle 1757" width="3.366" height="3.366" transform="translate(75.542 84.739)" fill="#036"/>
-      <rect id="Rectangle_1758" data-name="Rectangle 1758" width="3.366" height="3.366" transform="translate(82.274 84.739)" fill="#036"/>
-      <rect id="Rectangle_1759" data-name="Rectangle 1759" width="3.366" height="3.366" transform="translate(95.738 84.739)" fill="#036"/>
-      <rect id="Rectangle_1760" data-name="Rectangle 1760" width="3.366" height="3.366" transform="translate(89.006 84.739)" fill="#036"/>
-      <rect id="Rectangle_1761" data-name="Rectangle 1761" width="3.366" height="3.366" transform="translate(102.47 84.739)" fill="#036"/>
-      <rect id="Rectangle_1762" data-name="Rectangle 1762" width="3.366" height="3.366" transform="translate(105.835 84.739)" fill="#036"/>
-      <rect id="Rectangle_1763" data-name="Rectangle 1763" width="3.366" height="3.366" transform="translate(109.201 84.739)" fill="#036"/>
-      <rect id="Rectangle_1764" data-name="Rectangle 1764" width="3.366" height="3.366" transform="translate(115.933 84.739)" fill="#036"/>
-      <rect id="Rectangle_1765" data-name="Rectangle 1765" width="3.366" height="3.366" transform="translate(119.299 84.739)" fill="#036"/>
-      <rect id="Rectangle_1766" data-name="Rectangle 1766" width="3.366" height="3.366" transform="translate(99.104 88.105)" fill="#036"/>
-      <rect id="Rectangle_1767" data-name="Rectangle 1767" width="3.366" height="3.366" transform="translate(105.835 88.105)" fill="#036"/>
-      <rect id="Rectangle_1768" data-name="Rectangle 1768" width="3.366" height="3.366" transform="translate(112.567 88.105)" fill="#036"/>
-      <rect id="Rectangle_1769" data-name="Rectangle 1769" width="3.366" height="3.366" transform="translate(115.933 88.105)" fill="#036"/>
-      <rect id="Rectangle_1770" data-name="Rectangle 1770" width="3.366" height="3.366" transform="translate(122.665 88.105)" fill="#036"/>
-      <rect id="Rectangle_1771" data-name="Rectangle 1771" width="3.366" height="3.366" transform="translate(95.738 91.471)" fill="#036"/>
-      <rect id="Rectangle_1772" data-name="Rectangle 1772" width="3.366" height="3.366" transform="translate(99.104 91.471)" fill="#036"/>
-      <rect id="Rectangle_1773" data-name="Rectangle 1773" width="3.366" height="3.366" transform="translate(102.47 91.471)" fill="#036"/>
-      <rect id="Rectangle_1774" data-name="Rectangle 1774" width="3.366" height="3.366" transform="translate(112.567 91.471)" fill="#036"/>
-      <rect id="Rectangle_1775" data-name="Rectangle 1775" width="3.366" height="3.366" transform="translate(119.299 91.471)" fill="#036"/>
-      <rect id="Rectangle_1776" data-name="Rectangle 1776" width="3.366" height="3.366" transform="translate(105.835 94.837)" fill="#036"/>
-      <rect id="Rectangle_1777" data-name="Rectangle 1777" width="3.366" height="3.366" transform="translate(109.201 94.837)" fill="#036"/>
-      <rect id="Rectangle_1778" data-name="Rectangle 1778" width="3.366" height="3.366" transform="translate(115.933 94.837)" fill="#036"/>
-      <rect id="Rectangle_1779" data-name="Rectangle 1779" width="3.366" height="3.366" transform="translate(119.299 94.837)" fill="#036"/>
-      <rect id="Rectangle_1780" data-name="Rectangle 1780" width="3.366" height="3.366" transform="translate(95.738 98.203)" fill="#036"/>
-      <rect id="Rectangle_1781" data-name="Rectangle 1781" width="3.366" height="3.366" transform="translate(99.104 98.203)" fill="#036"/>
-      <rect id="Rectangle_1782" data-name="Rectangle 1782" width="3.366" height="3.366" transform="translate(105.835 98.203)" fill="#036"/>
-      <rect id="Rectangle_1783" data-name="Rectangle 1783" width="3.366" height="3.366" transform="translate(112.567 98.203)" fill="#036"/>
-      <rect id="Rectangle_1784" data-name="Rectangle 1784" width="3.366" height="3.366" transform="translate(115.933 98.203)" fill="#036"/>
-      <rect id="Rectangle_1785" data-name="Rectangle 1785" width="3.366" height="3.366" transform="translate(122.665 98.203)" fill="#036"/>
-      <rect id="Rectangle_1786" data-name="Rectangle 1786" width="3.366" height="3.366" transform="translate(99.104 101.569)" fill="#036"/>
-      <rect id="Rectangle_1787" data-name="Rectangle 1787" width="3.366" height="3.366" transform="translate(102.47 101.569)" fill="#036"/>
-      <rect id="Rectangle_1788" data-name="Rectangle 1788" width="3.366" height="3.366" transform="translate(109.201 101.569)" fill="#036"/>
-      <rect id="Rectangle_1789" data-name="Rectangle 1789" width="3.366" height="3.366" transform="translate(115.933 101.569)" fill="#036"/>
-      <rect id="Rectangle_1790" data-name="Rectangle 1790" width="3.366" height="3.366" transform="translate(119.299 101.569)" fill="#036"/>
-      <rect id="Rectangle_1791" data-name="Rectangle 1791" width="3.366" height="3.366" transform="translate(122.665 101.569)" fill="#036"/>
-      <rect id="Rectangle_1792" data-name="Rectangle 1792" width="3.366" height="3.366" transform="translate(95.738 104.935)" fill="#036"/>
-      <rect id="Rectangle_1793" data-name="Rectangle 1793" width="3.366" height="3.366" transform="translate(102.47 104.935)" fill="#036"/>
-      <rect id="Rectangle_1794" data-name="Rectangle 1794" width="3.366" height="3.366" transform="translate(105.835 104.935)" fill="#036"/>
-      <rect id="Rectangle_1795" data-name="Rectangle 1795" width="3.366" height="3.366" transform="translate(112.567 104.935)" fill="#036"/>
-      <rect id="Rectangle_1796" data-name="Rectangle 1796" width="3.366" height="3.366" transform="translate(119.299 104.935)" fill="#036"/>
-      <rect id="Rectangle_1797" data-name="Rectangle 1797" width="3.366" height="3.366" transform="translate(99.104 108.301)" fill="#036"/>
-      <rect id="Rectangle_1798" data-name="Rectangle 1798" width="3.366" height="3.366" transform="translate(109.201 108.301)" fill="#036"/>
-      <rect id="Rectangle_1799" data-name="Rectangle 1799" width="3.366" height="3.366" transform="translate(119.299 108.301)" fill="#036"/>
-      <path id="Path_705" data-name="Path 705" d="M89.372,75.007h-14.2v-14.2h14.2Zm3-17.2h-20.2v20.2h20.2Z" fill="#036"/>
-      <rect id="Rectangle_1800" data-name="Rectangle 1800" width="6.732" height="6.732" transform="translate(78.908 98.179)" fill="#036"/>
-      <path id="Path_706" data-name="Path 706" d="M89.372,108.643h-14.2v-14.2h14.2Zm3-17.2h-20.2v20.2h20.2Z" fill="#036"/>
-      <rect id="Rectangle_1801" data-name="Rectangle 1801" width="6.732" height="6.732" transform="translate(112.567 64.543)" fill="#036"/>
-      <path id="Path_707" data-name="Path 707" d="M123.031,75.007h-14.2v-14.2h14.2Zm3-17.2h-20.2v20.2h20.2Z" fill="#036"/>
+  <rect
+     id="Rectangle_1680"
+     data-name="Rectangle 1680"
+     width="17.509"
+     height="17.509"
+     transform="translate(47.474 60.443)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1681"
+     data-name="Rectangle 1681"
+     width="8.754"
+     height="8.754"
+     transform="translate(91.246 95.461)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1682"
+     data-name="Rectangle 1682"
+     width="8.754"
+     height="8.754"
+     transform="translate(100 86.707)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1683"
+     data-name="Rectangle 1683"
+     width="8.754"
+     height="8.754"
+     transform="translate(91.246 77.952)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1684"
+     data-name="Rectangle 1684"
+     width="8.754"
+     height="8.754"
+     transform="translate(100 69.198)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1685"
+     data-name="Rectangle 1685"
+     width="8.754"
+     height="8.754"
+     transform="translate(91.246 60.444)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1686"
+     data-name="Rectangle 1686"
+     width="8.754"
+     height="8.754"
+     transform="translate(100 51.69)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1687"
+     data-name="Rectangle 1687"
+     width="8.754"
+     height="8.754"
+     transform="translate(100 60.444)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1688"
+     data-name="Rectangle 1688"
+     width="8.754"
+     height="8.754"
+     transform="translate(91.246 42.935)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1689"
+     data-name="Rectangle 1689"
+     width="8.754"
+     height="8.754"
+     transform="translate(29.966 104.215)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1690"
+     data-name="Rectangle 1690"
+     width="8.754"
+     height="8.754"
+     transform="translate(47.475 104.215)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1691"
+     data-name="Rectangle 1691"
+     width="8.754"
+     height="8.754"
+     transform="translate(73.737 104.215)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1692"
+     data-name="Rectangle 1692"
+     width="8.754"
+     height="8.754"
+     transform="translate(100 104.215)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1693"
+     data-name="Rectangle 1693"
+     width="8.754"
+     height="8.754"
+     transform="translate(117.509 104.215)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1694"
+     data-name="Rectangle 1694"
+     width="8.754"
+     height="8.754"
+     transform="translate(135.017 104.215)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1695"
+     data-name="Rectangle 1695"
+     width="8.754"
+     height="8.754"
+     transform="translate(152.526 104.215)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1696"
+     data-name="Rectangle 1696"
+     width="8.754"
+     height="8.754"
+     transform="translate(38.72 112.97)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1697"
+     data-name="Rectangle 1697"
+     width="8.754"
+     height="8.754"
+     transform="translate(56.229 112.97)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1698"
+     data-name="Rectangle 1698"
+     width="8.754"
+     height="8.754"
+     transform="translate(91.246 112.97)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1699"
+     data-name="Rectangle 1699"
+     width="8.754"
+     height="8.754"
+     transform="translate(73.737 112.97)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1700"
+     data-name="Rectangle 1700"
+     width="8.754"
+     height="8.754"
+     transform="translate(108.755 112.97)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1701"
+     data-name="Rectangle 1701"
+     width="8.754"
+     height="8.754"
+     transform="translate(117.509 112.97)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1702"
+     data-name="Rectangle 1702"
+     width="8.754"
+     height="8.754"
+     transform="translate(126.263 112.97)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1703"
+     data-name="Rectangle 1703"
+     width="8.754"
+     height="8.754"
+     transform="translate(143.772 112.97)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1704"
+     data-name="Rectangle 1704"
+     width="8.754"
+     height="8.754"
+     transform="translate(152.526 112.97)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1705"
+     data-name="Rectangle 1705"
+     width="8.754"
+     height="8.754"
+     transform="translate(100 121.724)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1706"
+     data-name="Rectangle 1706"
+     width="8.754"
+     height="8.754"
+     transform="translate(117.509 121.724)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1707"
+     data-name="Rectangle 1707"
+     width="8.754"
+     height="8.754"
+     transform="translate(135.017 121.724)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1708"
+     data-name="Rectangle 1708"
+     width="8.754"
+     height="8.754"
+     transform="translate(143.772 121.724)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1709"
+     data-name="Rectangle 1709"
+     width="8.754"
+     height="8.754"
+     transform="translate(161.28 121.724)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1710"
+     data-name="Rectangle 1710"
+     width="8.754"
+     height="8.754"
+     transform="translate(91.246 130.478)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1711"
+     data-name="Rectangle 1711"
+     width="8.754"
+     height="8.754"
+     transform="translate(100 130.478)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1712"
+     data-name="Rectangle 1712"
+     width="8.754"
+     height="8.754"
+     transform="translate(108.755 130.478)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1713"
+     data-name="Rectangle 1713"
+     width="8.754"
+     height="8.754"
+     transform="translate(135.017 130.478)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1714"
+     data-name="Rectangle 1714"
+     width="8.754"
+     height="8.754"
+     transform="translate(152.526 130.478)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1715"
+     data-name="Rectangle 1715"
+     width="8.754"
+     height="8.754"
+     transform="translate(117.509 139.232)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1716"
+     data-name="Rectangle 1716"
+     width="8.754"
+     height="8.754"
+     transform="translate(126.263 139.232)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1717"
+     data-name="Rectangle 1717"
+     width="8.754"
+     height="8.754"
+     transform="translate(143.772 139.232)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1718"
+     data-name="Rectangle 1718"
+     width="8.754"
+     height="8.754"
+     transform="translate(152.526 139.232)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1719"
+     data-name="Rectangle 1719"
+     width="8.754"
+     height="8.754"
+     transform="translate(91.246 147.987)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1720"
+     data-name="Rectangle 1720"
+     width="8.754"
+     height="8.754"
+     transform="translate(100 147.987)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1721"
+     data-name="Rectangle 1721"
+     width="8.754"
+     height="8.754"
+     transform="translate(117.509 147.987)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1722"
+     data-name="Rectangle 1722"
+     width="8.754"
+     height="8.754"
+     transform="translate(135.017 147.987)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1723"
+     data-name="Rectangle 1723"
+     width="8.754"
+     height="8.754"
+     transform="translate(143.772 147.987)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1724"
+     data-name="Rectangle 1724"
+     width="8.754"
+     height="8.754"
+     transform="translate(161.28 147.987)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1725"
+     data-name="Rectangle 1725"
+     width="8.754"
+     height="8.754"
+     transform="translate(100 156.741)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1726"
+     data-name="Rectangle 1726"
+     width="8.754"
+     height="8.754"
+     transform="translate(108.755 156.741)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1727"
+     data-name="Rectangle 1727"
+     width="8.754"
+     height="8.754"
+     transform="translate(126.263 156.741)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1728"
+     data-name="Rectangle 1728"
+     width="8.754"
+     height="8.754"
+     transform="translate(143.772 156.741)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1729"
+     data-name="Rectangle 1729"
+     width="8.754"
+     height="8.754"
+     transform="translate(152.526 156.741)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1730"
+     data-name="Rectangle 1730"
+     width="8.754"
+     height="8.754"
+     transform="translate(161.28 156.741)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1731"
+     data-name="Rectangle 1731"
+     width="8.754"
+     height="8.754"
+     transform="translate(91.246 165.495)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1732"
+     data-name="Rectangle 1732"
+     width="8.754"
+     height="8.754"
+     transform="translate(108.755 165.495)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1733"
+     data-name="Rectangle 1733"
+     width="8.754"
+     height="8.754"
+     transform="translate(117.509 165.495)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1734"
+     data-name="Rectangle 1734"
+     width="8.754"
+     height="8.754"
+     transform="translate(135.017 165.495)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1735"
+     data-name="Rectangle 1735"
+     width="8.754"
+     height="8.754"
+     transform="translate(152.526 165.495)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1736"
+     data-name="Rectangle 1736"
+     width="8.754"
+     height="8.754"
+     transform="translate(100 174.25)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1737"
+     data-name="Rectangle 1737"
+     width="8.754"
+     height="8.754"
+     transform="translate(126.263 174.25)"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1738"
+     data-name="Rectangle 1738"
+     width="8.754"
+     height="8.754"
+     transform="translate(152.526 174.25)"
+     fill="#335c85" />
+  <path
+     id="Path_695"
+     data-name="Path 695"
+     d="M74.689,87.658H37.768V50.737H74.689Zm7.8-44.723H29.965V95.461H82.491Z"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1739"
+     data-name="Rectangle 1739"
+     width="17.509"
+     height="17.509"
+     transform="translate(47.474 147.924)"
+     fill="#335c85" />
+  <path
+     id="Path_696"
+     data-name="Path 696"
+     d="M74.689,175.139H37.768V138.218H74.689Zm7.8-44.724H29.965v52.526H82.491Z"
+     fill="#335c85" />
+  <rect
+     id="Rectangle_1740"
+     data-name="Rectangle 1740"
+     width="17.509"
+     height="17.509"
+     transform="translate(135.017 60.443)"
+     fill="#335c85" />
+  <path
+     id="Path_697"
+     data-name="Path 697"
+     d="M162.232,87.658H125.311V50.737h36.921Zm7.8-44.723H117.508V95.461h52.526Z"
+     fill="#335c85" />
+  <g
+     id="Group_2458"
+     data-name="Group 2458">
+    <g
+       id="Group_2457"
+       data-name="Group 2457"
+       clip-path="url(#clip-path)">
+      <path
+         id="Path_698"
+         data-name="Path 698"
+         d="M130.177,5.482H68.037a15.005,15.005,0,0,0-15,15v138.84a15.005,15.005,0,0,0,15,15h62.14a15.005,15.005,0,0,0,15-15V20.482a15.005,15.005,0,0,0-15-15M88.7,10.9h22.11a1.885,1.885,0,0,1,0,3.77H88.7a1.885,1.885,0,0,1,0-3.77m50.46,131.53a6.323,6.323,0,0,1-6.32,6.33H65.377a6.323,6.323,0,0,1-6.32-6.33V27.042a6.321,6.321,0,0,1,6.32-6.32h67.46a6.321,6.321,0,0,1,6.32,6.32Z"
+         fill="#036" />
+      <path
+         id="Path_699"
+         data-name="Path 699"
+         d="M132.837,20.722H65.377a6.321,6.321,0,0,0-6.32,6.32v115.39a6.323,6.323,0,0,0,6.32,6.33h67.46a6.323,6.323,0,0,0,6.32-6.33V27.042a6.321,6.321,0,0,0-6.32-6.32"
+         fill="#8099b3" />
+      <path
+         id="Path_700"
+         data-name="Path 700"
+         d="M96.632,153.817a8.112,8.112,0,1,1-5.25,10.2,8.11,8.11,0,0,1,5.25-10.2"
+         fill="#8099b3" />
+      <path
+         id="Path_701"
+         data-name="Path 701"
+         d="M64.266,72.773a2,2,0,0,1-2-2V49.9a2,2,0,0,1,2-2H85.138a2,2,0,0,1,0,4H66.266V70.773a2,2,0,0,1-2,2"
+         fill="#fcba19" />
+      <path
+         id="Path_702"
+         data-name="Path 702"
+         d="M133.948,72.773a2,2,0,0,1-2-2V51.9H113.076a2,2,0,1,1,0-4h20.872a2,2,0,0,1,2,2V70.773a2,2,0,0,1-2,2"
+         fill="#fcba19" />
+      <path
+         id="Path_703"
+         data-name="Path 703"
+         d="M133.949,121.583H113.077a2,2,0,0,1,0-4h18.872V98.711a2,2,0,0,1,4,0v20.872a2,2,0,0,1-2,2"
+         fill="#fcba19" />
+      <path
+         id="Path_704"
+         data-name="Path 704"
+         d="M85.138,121.583H64.266a2,2,0,0,1-2-2V98.711a2,2,0,0,1,4,0v18.872H85.138a2,2,0,0,1,0,4"
+         fill="#fcba19" />
+      <rect
+         id="Rectangle_1741"
+         data-name="Rectangle 1741"
+         width="6.732"
+         height="6.732"
+         transform="translate(78.908 64.543)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1742"
+         data-name="Rectangle 1742"
+         width="3.366"
+         height="3.366"
+         transform="translate(95.738 78.007)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1743"
+         data-name="Rectangle 1743"
+         width="3.366"
+         height="3.366"
+         transform="translate(99.104 74.641)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1744"
+         data-name="Rectangle 1744"
+         width="3.366"
+         height="3.366"
+         transform="translate(95.738 71.275)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1745"
+         data-name="Rectangle 1745"
+         width="3.366"
+         height="3.366"
+         transform="translate(99.104 67.909)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1746"
+         data-name="Rectangle 1746"
+         width="3.366"
+         height="3.366"
+         transform="translate(95.738 64.543)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1747"
+         data-name="Rectangle 1747"
+         width="3.366"
+         height="3.366"
+         transform="translate(99.104 61.177)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1748"
+         data-name="Rectangle 1748"
+         width="3.366"
+         height="3.366"
+         transform="translate(99.104 64.543)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1749"
+         data-name="Rectangle 1749"
+         width="3.366"
+         height="3.366"
+         transform="translate(95.738 57.811)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1750"
+         data-name="Rectangle 1750"
+         width="3.366"
+         height="3.366"
+         transform="translate(72.176 81.373)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1751"
+         data-name="Rectangle 1751"
+         width="3.366"
+         height="3.366"
+         transform="translate(78.908 81.373)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1752"
+         data-name="Rectangle 1752"
+         width="3.366"
+         height="3.366"
+         transform="translate(89.006 81.373)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1753"
+         data-name="Rectangle 1753"
+         width="3.366"
+         height="3.366"
+         transform="translate(99.104 81.373)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1754"
+         data-name="Rectangle 1754"
+         width="3.366"
+         height="3.366"
+         transform="translate(105.835 81.373)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1755"
+         data-name="Rectangle 1755"
+         width="3.366"
+         height="3.366"
+         transform="translate(112.567 81.373)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1756"
+         data-name="Rectangle 1756"
+         width="3.366"
+         height="3.366"
+         transform="translate(119.299 81.373)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1757"
+         data-name="Rectangle 1757"
+         width="3.366"
+         height="3.366"
+         transform="translate(75.542 84.739)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1758"
+         data-name="Rectangle 1758"
+         width="3.366"
+         height="3.366"
+         transform="translate(82.274 84.739)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1759"
+         data-name="Rectangle 1759"
+         width="3.366"
+         height="3.366"
+         transform="translate(95.738 84.739)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1760"
+         data-name="Rectangle 1760"
+         width="3.366"
+         height="3.366"
+         transform="translate(89.006 84.739)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1761"
+         data-name="Rectangle 1761"
+         width="3.366"
+         height="3.366"
+         transform="translate(102.47 84.739)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1762"
+         data-name="Rectangle 1762"
+         width="3.366"
+         height="3.366"
+         transform="translate(105.835 84.739)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1763"
+         data-name="Rectangle 1763"
+         width="3.366"
+         height="3.366"
+         transform="translate(109.201 84.739)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1764"
+         data-name="Rectangle 1764"
+         width="3.366"
+         height="3.366"
+         transform="translate(115.933 84.739)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1765"
+         data-name="Rectangle 1765"
+         width="3.366"
+         height="3.366"
+         transform="translate(119.299 84.739)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1766"
+         data-name="Rectangle 1766"
+         width="3.366"
+         height="3.366"
+         transform="translate(99.104 88.105)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1767"
+         data-name="Rectangle 1767"
+         width="3.366"
+         height="3.366"
+         transform="translate(105.835 88.105)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1768"
+         data-name="Rectangle 1768"
+         width="3.366"
+         height="3.366"
+         transform="translate(112.567 88.105)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1769"
+         data-name="Rectangle 1769"
+         width="3.366"
+         height="3.366"
+         transform="translate(115.933 88.105)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1770"
+         data-name="Rectangle 1770"
+         width="3.366"
+         height="3.366"
+         transform="translate(122.665 88.105)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1771"
+         data-name="Rectangle 1771"
+         width="3.366"
+         height="3.366"
+         transform="translate(95.738 91.471)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1772"
+         data-name="Rectangle 1772"
+         width="3.366"
+         height="3.366"
+         transform="translate(99.104 91.471)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1773"
+         data-name="Rectangle 1773"
+         width="3.366"
+         height="3.366"
+         transform="translate(102.47 91.471)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1774"
+         data-name="Rectangle 1774"
+         width="3.366"
+         height="3.366"
+         transform="translate(112.567 91.471)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1775"
+         data-name="Rectangle 1775"
+         width="3.366"
+         height="3.366"
+         transform="translate(119.299 91.471)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1776"
+         data-name="Rectangle 1776"
+         width="3.366"
+         height="3.366"
+         transform="translate(105.835 94.837)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1777"
+         data-name="Rectangle 1777"
+         width="3.366"
+         height="3.366"
+         transform="translate(109.201 94.837)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1778"
+         data-name="Rectangle 1778"
+         width="3.366"
+         height="3.366"
+         transform="translate(115.933 94.837)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1779"
+         data-name="Rectangle 1779"
+         width="3.366"
+         height="3.366"
+         transform="translate(119.299 94.837)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1780"
+         data-name="Rectangle 1780"
+         width="3.366"
+         height="3.366"
+         transform="translate(95.738 98.203)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1781"
+         data-name="Rectangle 1781"
+         width="3.366"
+         height="3.366"
+         transform="translate(99.104 98.203)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1782"
+         data-name="Rectangle 1782"
+         width="3.366"
+         height="3.366"
+         transform="translate(105.835 98.203)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1783"
+         data-name="Rectangle 1783"
+         width="3.366"
+         height="3.366"
+         transform="translate(112.567 98.203)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1784"
+         data-name="Rectangle 1784"
+         width="3.366"
+         height="3.366"
+         transform="translate(115.933 98.203)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1785"
+         data-name="Rectangle 1785"
+         width="3.366"
+         height="3.366"
+         transform="translate(122.665 98.203)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1786"
+         data-name="Rectangle 1786"
+         width="3.366"
+         height="3.366"
+         transform="translate(99.104 101.569)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1787"
+         data-name="Rectangle 1787"
+         width="3.366"
+         height="3.366"
+         transform="translate(102.47 101.569)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1788"
+         data-name="Rectangle 1788"
+         width="3.366"
+         height="3.366"
+         transform="translate(109.201 101.569)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1789"
+         data-name="Rectangle 1789"
+         width="3.366"
+         height="3.366"
+         transform="translate(115.933 101.569)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1790"
+         data-name="Rectangle 1790"
+         width="3.366"
+         height="3.366"
+         transform="translate(119.299 101.569)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1791"
+         data-name="Rectangle 1791"
+         width="3.366"
+         height="3.366"
+         transform="translate(122.665 101.569)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1792"
+         data-name="Rectangle 1792"
+         width="3.366"
+         height="3.366"
+         transform="translate(95.738 104.935)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1793"
+         data-name="Rectangle 1793"
+         width="3.366"
+         height="3.366"
+         transform="translate(102.47 104.935)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1794"
+         data-name="Rectangle 1794"
+         width="3.366"
+         height="3.366"
+         transform="translate(105.835 104.935)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1795"
+         data-name="Rectangle 1795"
+         width="3.366"
+         height="3.366"
+         transform="translate(112.567 104.935)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1796"
+         data-name="Rectangle 1796"
+         width="3.366"
+         height="3.366"
+         transform="translate(119.299 104.935)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1797"
+         data-name="Rectangle 1797"
+         width="3.366"
+         height="3.366"
+         transform="translate(99.104 108.301)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1798"
+         data-name="Rectangle 1798"
+         width="3.366"
+         height="3.366"
+         transform="translate(109.201 108.301)"
+         fill="#036" />
+      <rect
+         id="Rectangle_1799"
+         data-name="Rectangle 1799"
+         width="3.366"
+         height="3.366"
+         transform="translate(119.299 108.301)"
+         fill="#036" />
+      <path
+         id="Path_705"
+         data-name="Path 705"
+         d="M89.372,75.007h-14.2v-14.2h14.2Zm3-17.2h-20.2v20.2h20.2Z"
+         fill="#036" />
+      <rect
+         id="Rectangle_1800"
+         data-name="Rectangle 1800"
+         width="6.732"
+         height="6.732"
+         transform="translate(78.908 98.179)"
+         fill="#036" />
+      <path
+         id="Path_706"
+         data-name="Path 706"
+         d="M89.372,108.643h-14.2v-14.2h14.2Zm3-17.2h-20.2v20.2h20.2Z"
+         fill="#036" />
+      <rect
+         id="Rectangle_1801"
+         data-name="Rectangle 1801"
+         width="6.732"
+         height="6.732"
+         transform="translate(112.567 64.543)"
+         fill="#036" />
+      <path
+         id="Path_707"
+         data-name="Path 707"
+         d="M123.031,75.007h-14.2v-14.2h14.2Zm3-17.2h-20.2v20.2h20.2Z"
+         fill="#036" />
     </g>
   </g>
+  <path
+     style="fill:#666666;stroke-width:0.245098"
+     d="M 66.176471,174.09672 C 60.419825,173.30985 55.421225,168.93126 53.63718,163.11275 53.203751,161.69915 53.186275,158.8635 53.186275,89.95098 V 18.259804 L 53.75573,16.421569 C 55.206878,11.737175 58.685525,8.1098983 63.435464,6.3282553 L 64.95098,5.7598039 98.284314,5.6909712 c 37.140736,-0.076695 35.138846,-0.1597154 38.665096,1.6034859 2.60743,1.3037748 5.21068,3.9827079 6.5059,6.6950409 0.5422,1.135433 1.10605,2.648896 1.253,3.363252 0.18926,0.920021 0.26718,22.117811 0.26718,72.681348 0,79.190992 0.14477,72.526632 -1.65404,76.142372 -1.67333,3.3635 -5.0594,6.14933 -9.13027,7.51178 -1.28074,0.42864 -2.9939,0.45261 -34.313729,0.48007 -18.131127,0.0159 -33.296569,-0.0163 -33.70098,-0.0716 z m 36.567979,-5.24553 c 3.78065,-1.8218 5.49831,-6.32307 3.97079,-10.40574 -0.70425,-1.88228 -2.63381,-3.79972 -4.55101,-4.52244 -2.08841,-0.78726 -5.072816,-0.63019 -6.895492,0.3629 -4.700388,2.56101 -5.813098,8.80756 -2.261199,12.6939 2.595147,2.8395 6.26438,3.54471 9.736911,1.87138 z m 32.81996,-20.57907 c 0.57079,-0.27632 1.48242,-0.98474 2.02584,-1.57429 1.90445,-2.06608 1.76051,3.261 1.6892,-62.516656 l -0.0638,-58.813527 -0.57302,-1.16356 c -0.31516,-0.639958 -1.02911,-1.553959 -1.58656,-2.031112 -1.97056,-1.686724 0.26218,-1.598274 -38.539487,-1.526762 -33.631365,0.06198 -35.070628,0.08287 -35.894074,0.520932 -1.197464,0.637035 -2.399149,1.81928 -3.023929,2.975012 l -0.529993,0.980392 -0.06938,59.068627 c -0.04957,42.205514 0.0072,59.348514 0.198792,60.049024 0.428445,1.56633 1.741692,3.15922 3.20634,3.88908 l 1.294806,0.64523 h 35.413709 c 35.199306,0 35.419996,-0.003 36.451516,-0.50239 z m -23.506,-133.934189 c 1.04116,-0.729258 0.84119,-2.961654 -0.30468,-3.401367 -0.51822,-0.198858 -23.479436,-0.198858 -23.997652,0 -1.145872,0.439713 -1.345845,2.672109 -0.304683,3.401367 0.788642,0.552386 23.818375,0.552386 24.607015,0 z"
+     id="path1" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 72.181373,67.892157 v -10.04902 h 10.049019 10.04902 v 10.04902 10.049019 H 82.230392 72.181373 Z m 17.344388,0.06127 0.06498,-7.169117 h -7.234095 -7.234094 v 7.234094 7.234094 l 7.169118,-0.06498 7.169117,-0.06498 z"
+     id="path2" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 79.044118,67.892157 v -3.186275 h 3.186274 3.186275 v 3.186275 3.186274 h -3.186275 -3.186274 z"
+     id="path3" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="M 99.142157,62.867647 V 61.27451 h 1.593133 1.59314 v 1.593137 1.593137 h -1.59314 -1.593133 z"
+     id="path4" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 95.955882,59.436275 v -1.593138 h 1.470589 1.470588 v 1.593138 1.593137 h -1.470588 -1.470589 z"
+     id="path5" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 95.955882,66.29902 v -1.593138 h 1.470589 1.470588 v 1.593138 1.593137 h -1.470588 -1.470589 z"
+     id="path6" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 99.142157,66.29902 v -1.593138 h 1.593133 1.59314 v 1.593138 1.593137 h -1.59314 -1.593133 z"
+     id="path7" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 99.142157,69.607843 v -1.470588 h 1.593133 1.59314 v 1.470588 1.470588 h -1.59314 -1.593133 z"
+     id="path8" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 95.955882,72.916667 v -1.593138 h 1.470589 1.470588 v 1.593138 1.593137 h -1.470588 -1.470589 z"
+     id="path9" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 99.142157,76.348039 v -1.593137 h 1.593133 1.59314 v 1.593137 1.593137 h -1.59314 -1.593133 z"
+     id="path10" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 95.955882,79.779412 v -1.593137 h 1.470589 1.470588 v 1.593137 1.593137 h -1.470588 -1.470589 z"
+     id="path11" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 99.142157,82.965686 v -1.593137 h 1.593133 1.59314 v 1.593137 1.593138 h -1.59314 -1.593133 z"
+     id="path12" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 95.955882,86.397059 v -1.593137 h 1.470589 1.470588 v 1.593137 1.593137 h -1.470588 -1.470589 z"
+     id="path13" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 89.093137,86.397059 v -1.593137 h 1.593138 1.593137 v 1.593137 1.593137 h -1.593137 -1.593138 z"
+     id="path14" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 89.093137,82.965686 v -1.593137 h 1.593138 1.593137 v 1.593137 1.593138 h -1.593137 -1.593138 z"
+     id="path15" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 82.47549,86.397059 v -1.593137 h 1.470588 1.470589 v 1.593137 1.593137 H 83.946078 82.47549 Z"
+     id="path16" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 79.044118,82.965686 v -1.593137 h 1.593137 1.593137 v 1.593137 1.593138 h -1.593137 -1.593137 z"
+     id="path17" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 75.612745,86.397059 v -1.593137 h 1.593137 1.593138 v 1.593137 1.593137 h -1.593138 -1.593137 z"
+     id="path18" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 72.181373,82.965686 v -1.593137 h 1.593137 1.593137 v 1.593137 1.593138 H 73.77451 72.181373 Z"
+     id="path19" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 72.181373,101.59314 v -9.926473 h 10.049019 10.04902 v 9.926473 9.92647 H 82.230392 72.181373 Z m 17.40196,0 v -7.230395 h -7.230392 -7.230392 v 7.230395 7.23039 h 7.230392 7.230392 z"
+     id="path20" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 79.044118,101.59314 v -3.308826 h 3.186274 3.186275 v 3.308826 3.30882 h -3.186275 -3.186274 z"
+     id="path21" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 99.142157,89.828431 v -1.593137 h 1.593133 1.59314 v 1.593137 1.593138 h -1.59314 -1.593133 z"
+     id="path22" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 98.975508,93.137255 c 0,-0.876226 0.04448,-1.234681 0.09885,-0.796569 0.05437,0.438113 0.05437,1.155025 0,1.593138 -0.05437,0.438112 -0.09885,0.07966 -0.09885,-0.796569 z"
+     id="path23" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 99.142157,93.137255 v -1.470588 h 1.593133 1.59314 v 1.470588 1.470588 h -1.59314 -1.593133 z"
+     id="path24" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 102.57353,93.137255 v -1.470588 h 1.59314 1.59313 v 1.470588 1.470588 h -1.59313 -1.59314 z"
+     id="path25" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 95.955882,93.137255 v -1.470588 h 1.470589 1.470588 v 1.470588 1.470588 h -1.470588 -1.470589 z"
+     id="path26" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 99.142157,99.877451 v -1.593137 h 1.593133 1.59314 v 1.593137 1.593139 h -1.59314 -1.593133 z"
+     id="path27" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 95.955882,99.877451 v -1.593137 h 1.470589 1.470588 v 1.593137 1.593139 h -1.470588 -1.470589 z"
+     id="path28" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 99.142157,103.30882 v -1.59313 h 1.593133 1.59314 v 1.59313 1.59314 h -1.59314 -1.593133 z"
+     id="path29" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 102.57353,103.30882 v -1.59313 h 1.59314 1.59313 v 1.59313 1.59314 h -1.59313 -1.59314 z"
+     id="path30" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 102.57353,106.61765 v -1.47059 h 1.59314 1.59313 v 1.47059 1.47059 h -1.59313 -1.59314 z"
+     id="path31" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 106.0049,106.61765 v -1.47059 h 1.59314 1.59314 v 1.47059 1.47059 h -1.59314 -1.59314 z"
+     id="path32" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 112.62255,67.892157 v -3.186275 h 3.30882 3.30883 v 3.186275 3.186274 h -3.30883 -3.30882 z"
+     id="path33" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 106.0049,67.892157 v -10.04902 h 9.92647 9.92647 v 10.04902 10.049019 h -9.92647 -9.92647 z m 17.09929,0.06127 0.065,-7.169117 h -7.2341 -7.23409 v 7.066993 c 0,3.886847 0.0752,7.142181 0.16708,7.234078 0.0919,0.0919 3.318,0.137852 7.16912,0.102124 l 7.00204,-0.06496 z"
+     id="path34" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 119.48529,82.965686 v -1.593137 h 1.47059 1.47059 v 1.593137 1.593138 h -1.47059 -1.47059 z"
+     id="path35" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 119.48529,86.397059 v -1.593137 h 1.47059 1.47059 v 1.593137 1.593137 h -1.47059 -1.47059 z"
+     id="path36" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 116.05392,86.397059 v -1.593137 h 1.59314 1.59314 v 1.593137 1.593137 h -1.59314 -1.59314 z"
+     id="path37" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 116.05392,89.828431 v -1.593137 h 1.59314 1.59314 v 1.593137 1.593138 h -1.59314 -1.59314 z"
+     id="path38" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 112.62255,89.828431 v -1.593137 h 1.59314 1.59313 v 1.593137 1.593138 h -1.59313 -1.59314 z"
+     id="path39" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 112.62255,93.137255 v -1.470588 h 1.59314 1.59313 v 1.470588 1.470588 h -1.59313 -1.59314 z"
+     id="path40" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 112.62255,82.965686 v -1.593137 h 1.59314 1.59313 v 1.593137 1.593138 h -1.59313 -1.59314 z"
+     id="path41" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 109.43627,86.397059 v -1.593137 h 1.47059 1.47059 v 1.593137 1.593137 h -1.47059 -1.47059 z"
+     id="path42" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 106.0049,86.397059 v -1.593137 h 1.59314 1.59314 v 1.593137 1.593137 h -1.59314 -1.59314 z"
+     id="path43" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 106.0049,82.965686 v -1.593137 h 1.59314 1.59314 v 1.593137 1.593138 h -1.59314 -1.59314 z"
+     id="path44" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 102.57353,86.397059 v -1.593137 h 1.59314 1.59313 v 1.593137 1.593137 h -1.59313 -1.59314 z"
+     id="path45" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 106.0049,89.828431 v -1.593137 h 1.59314 1.59314 v 1.593137 1.593138 h -1.59314 -1.59314 z"
+     id="path46" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 106.0049,96.446078 v -1.593137 h 1.59314 1.59314 v 1.593137 1.593138 h -1.59314 -1.59314 z"
+     id="path47" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 106.0049,99.877451 v -1.593137 h 1.59314 1.59314 v 1.593137 1.593139 h -1.59314 -1.59314 z"
+     id="path48" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 109.43627,96.446078 v -1.593137 h 1.47059 1.47059 v 1.593137 1.593138 h -1.47059 -1.47059 z"
+     id="path49" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 109.43627,103.30882 v -1.59313 h 1.47059 1.47059 v 1.59313 1.59314 h -1.47059 -1.47059 z"
+     id="path50" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 112.62255,99.877451 v -1.593137 h 1.59314 1.59313 v 1.593137 1.593139 h -1.59313 -1.59314 z"
+     id="path51" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 116.05392,99.877451 v -1.593137 h 1.59314 1.59314 v 1.593137 1.593139 h -1.59314 -1.59314 z"
+     id="path52" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 116.05392,96.446078 v -1.593137 h 1.59314 1.59314 v 1.593137 1.593138 h -1.59314 -1.59314 z"
+     id="path53" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 119.48529,96.446078 v -1.593137 h 1.47059 1.47059 v 1.593137 1.593138 h -1.47059 -1.47059 z"
+     id="path54" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 119.48529,93.137255 v -1.470588 h 1.47059 1.47059 v 1.470588 1.470588 h -1.47059 -1.47059 z"
+     id="path55" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 122.67157,89.828431 v -1.593137 h 1.59314 1.59313 v 1.593137 1.593138 h -1.59313 -1.59314 z"
+     id="path56" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 122.67157,99.877451 v -1.593137 h 1.59314 1.59313 v 1.593137 1.593139 h -1.59313 -1.59314 z"
+     id="path57" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 122.67157,103.30882 v -1.59313 h 1.59314 1.59313 v 1.59313 1.59314 h -1.59313 -1.59314 z"
+     id="path58" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 119.48529,103.30882 v -1.59313 h 1.47059 1.47059 v 1.59313 1.59314 h -1.47059 -1.47059 z"
+     id="path59" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 116.05392,103.30882 v -1.59313 h 1.59314 1.59314 v 1.59313 1.59314 h -1.59314 -1.59314 z"
+     id="path60" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 119.48529,106.61765 v -1.47059 h 1.47059 1.47059 v 1.47059 1.47059 h -1.47059 -1.47059 z"
+     id="path61" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 119.48529,109.92647 v -1.59314 h 1.47059 1.47059 v 1.59314 1.59314 h -1.47059 -1.47059 z"
+     id="path62" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 112.62255,106.61765 v -1.47059 h 1.59314 1.59313 v 1.47059 1.47059 h -1.59313 -1.59314 z"
+     id="path63" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 109.43627,109.92647 v -1.59314 h 1.47059 1.47059 v 1.59314 1.59314 h -1.47059 -1.47059 z"
+     id="path64" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 99.142157,109.92647 v -1.59314 h 1.593133 1.59314 v 1.59314 1.59314 h -1.59314 -1.593133 z"
+     id="path65" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 95.955882,106.61765 v -1.47059 h 1.470589 1.470588 v 1.47059 1.47059 h -1.470588 -1.470589 z"
+     id="path66" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 145.22059,91.544118 v -3.79902 h 8.57843 8.57843 V 69.240196 50.735294 h -8.57843 -8.57843 v -3.799019 -3.79902 h 12.37745 12.37745 v 26.102941 26.102941 h -12.37745 -12.37745 z"
+     id="path67" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 145.22059,69.240196 v -8.70098 h 3.55392 3.55392 v 8.70098 8.70098 h -3.55392 -3.55392 z"
+     id="path68" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 152.57353,108.57843 v -4.16667 h 4.28922 4.28921 v 4.16667 4.16667 h -4.28921 -4.28922 z"
+     id="path69" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 152.57353,117.27941 v -4.28921 h 4.28922 4.28921 v 4.28921 4.28922 h -4.28921 -4.28922 z"
+     id="path70" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 145.22059,117.27941 v -4.28921 h 3.55392 3.55392 v 4.28921 4.28922 h -3.55392 -3.55392 z"
+     id="path71" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 145.22059,126.10294 v -4.28921 h 3.55392 3.55392 v 4.28921 4.28922 h -3.55392 -3.55392 z"
+     id="path72" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 152.57353,134.92647 v -4.28922 h 4.28922 4.28921 v 4.28922 4.28922 h -4.28921 -4.28922 z"
+     id="path73" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 161.39706,126.10294 v -4.28921 h 4.28921 4.28922 v 4.28921 4.28922 h -4.28922 -4.28921 z"
+     id="path74" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 152.57353,143.62745 v -4.16667 h 4.28922 4.28921 v 4.16667 4.16667 h -4.28921 -4.28922 z"
+     id="path75" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 145.22059,143.62745 v -4.16667 h 3.55392 3.55392 v 4.16667 4.16667 h -3.55392 -3.55392 z"
+     id="path76" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 145.22059,152.32843 v -4.28921 h 3.55392 3.55392 v 4.28921 4.28922 h -3.55392 -3.55392 z"
+     id="path77" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 144.52864,164.03186 c 0.35965,-0.99943 0.5428,-2.24689 0.62975,-4.28921 l 0.12262,-2.8799 h 3.52371 3.52371 v 4.28921 4.28922 h -4.15346 -4.15347 z"
+     id="path78" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 152.57353,161.15196 v -4.28921 h 4.28922 4.28921 v 4.28921 4.28922 h -4.28921 -4.28922 z"
+     id="path79" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 161.39706,161.15196 v -4.28921 h 4.28921 4.28922 v 4.28921 4.28922 h -4.28922 -4.28921 z"
+     id="path80" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 161.39706,152.32843 v -4.28921 h 4.28921 4.28922 v 4.28921 4.28922 h -4.28922 -4.28921 z"
+     id="path81" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 152.57353,169.85294 v -4.16667 h 4.28922 4.28921 v 4.16667 4.16667 h -4.28921 -4.28922 z"
+     id="path82" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 152.57353,178.55392 v -4.28921 h 4.28922 4.28921 v 4.28921 4.28922 h -4.28921 -4.28922 z"
+     id="path83" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 135.17157,173.82517 c 0,-0.10693 0.77302,-0.56361 1.71782,-1.01483 2.07463,-0.9908 4.62912,-3.25989 5.92447,-5.26255 l 0.93614,-1.44732 v 3.95957 3.95957 h -4.28922 c -2.35906,0 -4.28921,-0.0875 -4.28921,-0.19444 z"
+     id="path84" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 126.34804,178.67647 v -4.16667 l 1.53186,-0.001 c 0.84253,-6.1e-4 2.77267,-0.0726 4.28922,-0.16 l 2.75735,-0.15888 v 4.32666 4.32667 h -4.28922 -4.28921 z"
+     id="path85" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 100.12255,178.67647 v -4.16667 h 4.28921 4.28922 v 4.16667 4.16667 h -4.28922 -4.28921 z"
+     id="path86" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 30.02451,156.7402 v -26.10295 h 11.397059 11.397058 v 3.67648 3.67647 h -7.598039 -7.598039 v 18.62745 18.62745 H 56.25 c 16.394336,0 18.627451,-0.0441 18.627451,-0.36765 0,-0.31098 0.585512,-0.36765 3.79902,-0.36765 h 3.799019 v 4.16667 4.16667 H 56.25 30.02451 Z"
+     id="path87" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 47.671569,156.61765 v -8.57843 h 2.548105 2.548105 l 0.113103,6.80147 c 0.109525,6.58635 0.242622,7.84534 1.049403,9.92647 0.153181,0.39513 -0.08675,0.42892 -3.046219,0.42892 h -3.212497 z"
+     id="path88" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 38.848039,117.27941 v -4.28921 h 4.289216 4.289216 v 4.28921 4.28922 h -4.289216 -4.289216 z"
+     id="path89" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 47.671569,108.57843 v -4.16667 h 2.573529 2.573529 v 4.16667 4.16667 h -2.573529 -2.573529 z"
+     id="path90" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 30.02451,108.57843 v -4.16667 h 4.289215 4.289216 v 4.16667 4.16667 H 34.313725 30.02451 Z"
+     id="path91" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="M 30.02451,69.240196 V 43.137255 h 11.397059 11.397058 v 3.79902 3.799019 h -7.598039 -7.598039 v 18.504902 18.504902 h 7.598039 7.598039 v 3.79902 3.799019 H 41.421569 30.02451 Z"
+     id="path92" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 47.671569,69.240196 v -8.70098 h 2.573529 2.573529 v 8.70098 8.70098 h -2.573529 -2.573529 z"
+     id="path93" />
+  <path
+     style="fill:#666666;stroke-width:0.245098"
+     d="m 64.583333,173.63004 c -4.807041,-1.30693 -8.531963,-4.72274 -10.500605,-9.62921 l -0.651355,-1.62338 -0.06875,-72.035553 -0.06875,-72.035552 0.630338,-1.892732 c 1.53077,-4.596485 4.740729,-8.0023424 9.284998,-9.8516461 l 1.70582,-0.6941884 34.331697,0.071401 c 38.785434,0.080663 35.256484,-0.1116829 38.655024,2.1069041 2.17778,1.42167 4.05368,3.4606224 5.20218,5.6543464 1.71591,3.277522 1.57743,-1.450288 1.73809,59.338786 0.14675,55.528494 -0.0695,88.582214 -0.59327,90.658524 -0.41191,1.63305 -2.13606,4.40127 -3.69629,5.93458 -1.51419,1.48807 -3.50067,2.79209 -5.626,3.69319 l -1.34804,0.57155 -33.823525,0.0497 c -29.361359,0.0432 -34.00137,10e-4 -35.171569,-0.31676 z m 37.092977,-4.27295 c 4.35354,-1.34468 6.71932,-6.25404 5.19414,-10.77866 -0.60741,-1.80194 -2.90847,-4.1478 -4.64695,-4.7374 -1.55456,-0.52724 -4.586429,-0.53517 -6.110108,-0.016 -1.572034,0.53565 -3.643164,2.47758 -4.497157,4.21662 -0.586654,1.19465 -0.684862,1.69338 -0.684862,3.47797 0,2.52199 0.702164,4.2757 2.353637,5.8784 2.381662,2.31133 5.154747,2.95874 8.3913,1.95908 z m 35.0454,-21.75407 c 0.7641,-0.57691 1.55851,-1.30724 1.76537,-1.62295 0.22418,-0.34214 0.46873,-1.60157 0.60538,-3.11773 0.13413,-1.48816 0.23269,-26.45034 0.23752,-60.155041 l 0.008,-57.611328 -0.70344,-1.089652 c -0.86698,-1.342997 -2.12159,-2.548386 -3.09558,-2.974129 -0.59173,-0.258649 -7.21993,-0.336604 -33.94608,-0.399246 -18.265934,-0.04281 -34.448854,-0.0045 -35.962048,0.08507 -2.49628,0.147815 -2.852637,0.230062 -3.845121,0.887457 -0.601624,0.398499 -1.486719,1.316407 -1.966877,2.039797 l -0.873016,1.315253 0.0024,59.517288 0.0024,59.517291 0.579351,1.22549 c 0.617212,1.30557 1.458554,2.20391 2.847233,3.0401 l 0.857843,0.51655 36.048581,-0.0626 36.048584,-0.0626 z M 111.87398,14.386574 c 1.09457,-0.524612 1.29344,-2.287083 0.36305,-3.217474 -0.33926,-0.339255 -1.81625,-0.384786 -12.482128,-0.384786 -10.665875,0 -12.14287,0.04553 -12.482125,0.384786 -0.723772,0.723771 -0.790341,2.060712 -0.151694,3.046586 0.186513,0.28792 1.050696,0.402029 3.985008,0.526192 5.749049,0.243266 20.028739,-10e-4 20.767889,-0.355304 z"
+     id="path94" />
+  <path
+     style="fill:#333333;stroke-width:0.245098"
+     d="m 64.583333,173.6363 c -4.51231,-1.20585 -8.385365,-4.63798 -10.354308,-9.17552 l -0.797652,-1.83823 -0.06836,-72.163952 -0.06836,-72.163949 0.518122,-1.61056 c 0.883207,-2.745407 1.916357,-4.421469 4.019016,-6.519979 1.559674,-1.5565955 2.433482,-2.1973562 4.178017,-3.0637251 L 64.215686,6.004902 97.426471,5.9367851 c 21.165579,-0.043411 33.966389,0.021277 35.294119,0.1783582 5.19231,0.6142922 10.02627,5.0344277 11.64885,10.6516267 0.38972,1.349155 0.42002,6.224471 0.44335,71.323529 0.0187,52.078301 -0.0488,70.654071 -0.26495,72.932701 -0.246,2.5935 -0.40516,3.2842 -1.04914,4.55294 -1.70922,3.36743 -4.49989,5.96472 -8.08203,7.52198 l -1.83824,0.79914 -33.823528,0.0497 c -29.092249,0.0428 -34.012095,-6.5e-4 -35.171569,-0.3105 z m 37.797577,-4.5776 c 2.66154,-1.21849 4.36503,-3.41359 4.81025,-6.19845 0.5822,-3.64167 -1.10175,-6.97102 -4.42276,-8.74424 -0.90557,-0.48352 -1.41242,-0.56209 -3.626243,-0.56209 -2.249106,0 -2.721973,0.0758 -3.751066,0.60157 -1.465336,0.7486 -3.224542,2.60112 -3.916834,4.1246 -0.739235,1.62679 -0.74148,4.84742 -0.0045,6.46885 0.601447,1.32325 2.206157,3.15106 3.431091,3.90812 2.185743,1.35086 5.068591,1.50566 7.480072,0.40164 z m 32.35825,-20.48214 c 1.08322,-0.20076 3.25478,-1.83212 3.78782,-2.84556 0.23983,-0.45597 0.45111,-1.87699 0.58307,-3.92157 0.11383,-1.76357 0.21174,-28.74556 0.21757,-59.959974 l 0.0106,-56.753485 -0.69413,-1.089652 c -0.97924,-1.537213 -2.5396,-2.864537 -3.64174,-3.097862 -1.20334,-0.254746 -71.053072,-0.260127 -71.965386,-0.0055 -0.846401,0.23619 -2.732711,1.940186 -3.512595,3.173099 l -0.578311,0.914247 v 59.449018 c 0,52.823079 0.04182,59.549109 0.375231,60.347069 0.565985,1.35459 1.524441,2.48961 2.768615,3.27864 l 1.118792,0.70952 35.307407,-0.0141 c 19.419077,-0.008 35.719437,-0.0905 36.223037,-0.18382 z M 111.21459,14.56007 c 1.58191,-0.245465 2.16351,-1.835223 1.14507,-3.129958 l -0.50798,-0.645798 H 99.754902 87.658127 l -0.507985,0.645798 c -0.634532,0.806677 -0.650135,1.820358 -0.03963,2.574598 0.44462,0.549299 0.658892,0.586004 4.227941,0.724258 4.294746,0.166365 18.493047,0.04571 19.876137,-0.168898 z"
+     id="path95" />
+  <path
+     style="fill:#b3b3b3;stroke-width:0.245098"
+     d="m 64.166069,148.50337 c -2.14544,-0.46494 -3.882131,-1.99677 -4.625577,-4.07995 -0.448654,-1.25716 -0.512589,-117.890853 -0.06534,-119.203022 0.510149,-1.496724 1.581324,-2.786142 2.939556,-3.538469 l 1.310785,-0.726047 h 35.416667 35.41666 l 0.9804,0.544304 c 1.67205,0.928306 2.5261,1.903902 3.06368,3.499699 0.49975,1.483468 0.50078,1.627284 0.43432,60.241115 -0.0632,55.74561 -0.0889,58.79489 -0.50185,59.55067 -0.23937,0.43811 -0.37297,0.79657 -0.2969,0.79657 0.31515,0 -1.8027,1.92997 -2.58583,2.35644 -0.81725,0.44505 -2.14543,0.46673 -35.824804,0.58473 -19.236848,0.0674 -35.284642,0.0557 -35.661764,-0.026 z m 21.554085,-26.94683 c 1.017451,-0.28257 1.412199,-0.81717 1.412199,-1.91254 0,-2.23912 -0.01467,-2.24204 -11.262338,-2.24204 H 66.29902 v -9.77677 c 0,-10.961158 0.04495,-10.681849 -1.765591,-10.971692 -0.784805,-0.125638 -1.008873,-0.04419 -1.654412,0.601345 l -0.746664,0.746664 v 11.137763 c 0,10.80326 0.01487,11.15666 0.49508,11.76715 0.272293,0.34617 0.741043,0.6769 1.041666,0.73497 1.227398,0.23708 21.168139,0.16035 22.051055,-0.0849 z m 49.049416,-0.0803 c 1.39322,-0.58212 1.40402,-0.68572 1.32856,-12.74283 l -0.0687,-10.982057 -0.68768,-0.591358 c -0.87888,-0.755767 -1.9124,-0.755777 -2.7913,-2.9e-5 l -0.68768,0.591328 -0.0693,9.825336 -0.0693,9.82534 -9.48949,0.004 c -10.26096,0.004 -10.42744,0.0238 -11.04854,1.31915 -0.49747,1.03751 -0.10755,2.12716 0.95173,2.6597 0.77179,0.38801 1.84418,0.42858 11.33823,0.42893 8.35062,3e-4 10.65029,-0.0683 11.29356,-0.33712 z M 92.52451,101.59314 V 91.421569 H 82.230392 71.936275 v 10.171571 10.17157 H 82.230392 92.52451 Z m 10.04902,8.45588 v -1.71569 h 3.30882 3.30883 v 1.71569 1.71569 h 1.71568 1.71569 v -1.71569 -1.71569 h 1.71569 1.71568 v -1.59313 -1.59314 h 1.59314 1.59314 v 3.30882 3.30883 h 1.71568 1.71569 v -3.30883 -3.30882 h 1.71568 1.71569 v -3.55392 -3.553924 h -1.71569 -1.71568 v -3.186275 -3.186274 h 1.71568 1.71569 v -1.838236 -1.838235 h -1.71569 -1.71568 v -3.308823 -3.308824 h -1.71569 -1.71568 v 1.593137 1.593138 h -1.59314 -1.59314 v -1.593138 -1.593137 h -1.83823 -1.83824 v 1.593137 1.593138 h -1.47059 -1.47059 v -1.593138 -1.593137 h -1.83823 -1.83824 v 1.593137 1.593138 h -1.59313 -1.59314 v -1.593138 -1.593137 h -1.71569 -1.715683 v -1.593137 -1.593137 h 1.715683 1.71569 v -1.838236 -1.838235 h -1.71569 -1.715683 v -1.593137 -1.593138 h 1.715683 1.71569 v -5.147058 -5.147059 h -1.71569 -1.715683 v -1.715687 -1.715686 h -1.715686 -1.715687 v 1.838236 1.838235 h 1.593138 1.593137 v 1.593137 1.593137 h -1.593137 -1.593138 v 1.838236 1.838235 h 1.593138 1.593137 v 1.470588 1.470588 h -1.593137 -1.593138 v 1.838236 1.838235 h 1.593138 1.593137 v 1.593137 1.593137 h -1.593137 -1.593138 v 1.715687 1.715686 h 1.593138 1.593137 v 1.593137 1.593138 h -1.593137 -1.593138 v 1.838235 1.838235 h 1.593138 1.593137 v 1.593137 1.593138 h -1.593137 -1.593138 v 1.715686 1.715686 h 5.024506 5.02451 v 3.308824 3.308825 h -1.59313 -1.59314 v -1.715688 -1.715686 h -3.431373 -3.431373 v 1.838235 1.838239 h 1.593138 1.593137 v 1.59313 1.59314 h -1.593137 -1.593138 v 1.71569 1.71568 h 1.593138 1.593137 v 1.71569 1.71569 h 1.838231 1.83824 z M 79.044118,86.519608 v -1.715686 h 1.593137 1.593137 v 1.715686 1.715686 h 1.715686 1.715687 V 86.397059 84.558824 H 84.068627 82.47549 V 82.965686 81.372549 H 80.637255 78.79902 v 1.593137 1.593138 h -1.593138 -1.593137 v -1.593138 -1.593137 h -1.849434 -1.849434 l 0.07247,1.654412 0.07247,1.654412 1.654411,0.07247 1.654412,0.07247 v 1.704487 1.704488 h 1.838235 1.838236 z M 92.52451,84.803922 v -3.431373 h -1.838235 -1.838236 v 3.431373 3.431372 h 1.838236 1.838235 z m 0,-16.914454 V 57.592662 l -10.232843,0.06396 -10.232843,0.06396 -0.06411,9.92615 c -0.03526,5.45938 -0.01115,10.064159 0.05358,10.232843 0.0916,0.238713 2.373946,0.306694 10.296951,0.306694 H 92.52451 Z m 33.57843,0.0027 V 57.598039 H 115.93137 105.7598 v 10.294118 10.294118 h 10.17157 10.17157 z M 65.731752,72.26121 66.29902,71.728288 v -9.883745 -9.883748 h 9.849399 c 9.775277,0 9.853667,-0.004 10.416667,-0.532919 0.839637,-0.788799 0.798252,-2.436086 -0.07853,-3.125762 -0.631517,-0.496753 -0.888699,-0.507985 -11.630624,-0.507985 -7.528537,0 -11.172746,0.08562 -11.582076,0.272125 -0.328488,0.149669 -0.719707,0.540889 -0.869376,0.869375 -0.186555,0.409446 -0.272125,4.065345 -0.272125,11.626272 V 71.59092 l 0.601604,0.601603 c 0.788372,0.788373 2.19736,0.820655 2.997795,0.06869 z M 135.403,72.3176 c 0.26209,-0.262091 0.54307,-0.841135 0.62441,-1.286765 0.0813,-0.445632 0.11507,-5.590088 0.075,-11.432127 l -0.0729,-10.621885 -0.68768,-0.59135 -0.68769,-0.591348 h -11.15715 -11.15715 l -0.71644,0.716441 c -0.76469,0.764689 -0.89102,1.43898 -0.4313,2.302122 0.60633,1.138442 0.54623,1.132101 10.80555,1.140309 l 9.74265,0.0078 v 9.420319 c 0,9.51477 0.0789,10.471147 0.91572,11.106642 0.62849,0.477255 2.19681,0.380115 2.74708,-0.170152 z"
+     id="path96" />
+  <path
+     style="fill:#b3b3b3;stroke-width:0.245098"
+     d="m 75.367647,101.59314 v -6.985297 h 6.985294 6.985294 v 6.985297 6.98529 h -6.985294 -6.985294 z m 10.294118,0 V 98.039216 H 82.230392 78.79902 v 3.390524 c 0,1.86479 0.07353,3.46405 0.163398,3.55392 0.08987,0.0899 1.633987,0.1634 3.431373,0.1634 h 3.267974 z"
+     id="path97" />
+  <path
+     style="fill:#b3b3b3;stroke-width:0.245098"
+     d="m 75.367647,68.014706 v -6.985294 h 6.985294 6.985294 V 68.014706 75 H 82.352941 75.367647 Z M 85.661765,67.892157 V 64.460784 H 82.230392 78.79902 v 3.431373 3.431372 h 3.431372 3.431373 z"
+     id="path98" />
+  <path
+     style="fill:#b3b3b3;stroke-width:0.245098"
+     d="m 122.97848,65.073529 c 0.003,-0.539215 0.0529,-0.730944 0.11153,-0.426064 0.0586,0.304881 0.0564,0.746057 -0.005,0.980393 -0.0614,0.234335 -0.10931,-0.01511 -0.10659,-0.554329 z"
+     id="path99" />
+  <path
+     style="fill:#b3b3b3;stroke-width:0.245098"
+     d="m 108.94608,68.014706 v -6.985294 h 6.98529 6.9853 V 68.014706 75 h -6.9853 -6.98529 z m 10.53921,-0.122549 v -3.431373 h -3.55392 -3.55392 v 3.431373 3.431372 h 3.55392 3.55392 z"
+     id="path100" />
+  <path
+     style="fill:#b3b3b3;stroke-width:0.245098"
+     d="m 106.0049,93.148453 v -1.459389 l 1.65441,-0.07247 1.65442,-0.07247 0.0725,-1.654412 0.0725,-1.654412 h 1.45939 1.45939 v 3.186275 3.186274 h -3.18627 -3.18628 z"
+     id="path101" />
+  <path
+     style="fill:#b3b3b3;stroke-width:0.245098"
+     d="m 102.57353,89.828431 v -1.593137 h 1.59314 1.59313 v 1.593137 1.593138 h -1.59313 -1.59314 z"
+     id="path102" />
+  <path
+     style="fill:#b3b3b3;stroke-width:0.245098"
+     d="m 99.142157,86.397059 v -1.593137 h 1.593133 1.59314 v 1.593137 1.593137 h -1.59314 -1.593133 z"
+     id="path103" />
+  <path
+     style="fill:#b3b3b3;stroke-width:0.245098"
+     d="m 112.62255,86.397059 v -1.593137 h 1.59314 1.59313 v 1.593137 1.593137 h -1.59313 -1.59314 z"
+     id="path104" />
+  <path
+     style="fill:#b3b3b3;stroke-width:0.245098"
+     d="m 119.48529,89.828431 v -1.593137 h 1.47059 1.47059 v 1.593137 1.593138 h -1.47059 -1.47059 z"
+     id="path105" />
+  <path
+     style="fill:#b3b3b3;stroke-width:0.245098"
+     d="m 116.05392,93.137255 v -1.470588 h 1.59314 1.59314 v 1.470588 1.470588 h -1.59314 -1.59314 z"
+     id="path106" />
+  <path
+     style="fill:#b3b3b3;stroke-width:0.245098"
+     d="m 119.48529,99.877451 v -1.593137 h 1.47059 1.47059 v 1.593137 1.593139 h -1.47059 -1.47059 z"
+     id="path107" />
+  <path
+     style="fill:#b3b3b3;stroke-width:0.245098"
+     d="m 109.43627,99.877451 v -1.593137 h 1.47059 1.47059 v 1.593137 1.593139 h -1.47059 -1.47059 z"
+     id="path108" />
+  <path
+     style="fill:#b3b3b3;stroke-width:0.245098"
+     d="m 113.2911,104.97016 c 0.43511,-0.0541 1.20717,-0.055 1.71569,-0.002 0.50852,0.053 0.15252,0.0973 -0.7911,0.0984 -0.94363,0.001 -1.35969,-0.0423 -0.92459,-0.0965 z"
+     id="path109" />
+  <path
+     style="fill:#b3b3b3;stroke-width:0.245098"
+     d="m 112.62255,103.30882 v -1.59313 h 1.59314 1.59313 v 1.59313 1.59314 h -1.59313 -1.59314 z"
+     id="path110" />
+  <path
+     style="fill:#b3b3b3;stroke-width:0.245098"
+     d="m 109.43627,106.61765 v -1.47059 h 1.47059 1.47059 v 1.47059 1.47059 h -1.47059 -1.47059 z"
+     id="path111" />
+  <path
+     style="fill:#b3b3b3;stroke-width:0.245098"
+     d="m 106.0049,103.30882 v -1.59313 h 1.59314 1.59314 v 1.59313 1.59314 h -1.59314 -1.59314 z"
+     id="path112" />
+  <path
+     style="fill:#b3b3b3;stroke-width:0.245098"
+     d="m 99.142157,106.61765 v -1.47059 h 1.593133 1.59314 v 1.47059 1.47059 h -1.59314 -1.593133 z"
+     id="path113" />
+  <path
+     style="fill:#b3b3b3;stroke-width:0.245098"
+     d="m 112.62255,96.446078 v -1.593137 h 1.59314 1.59313 v 1.593137 1.593138 h -1.59313 -1.59314 z"
+     id="path114" />
+  <path
+     style="fill:#b3b3b3;stroke-width:0.245098"
+     d="m 97.361389,169.35445 c -1.433015,-0.35825 -2.803346,-1.14445 -3.891666,-2.23277 -3.100945,-3.10094 -3.077689,-8.11576 0.05185,-11.18109 1.596453,-1.56369 2.922316,-2.1203 5.29981,-2.22491 1.761457,-0.0775 2.182257,-0.009 3.431377,0.56179 1.85675,0.84785 3.15258,2.11382 4.02612,3.93331 1.50117,3.1268 0.7167,6.83393 -1.95429,9.23538 -1.8629,1.67491 -4.741326,2.46375 -6.963203,1.90829 z"
+     id="path115" />
+  <path
+     style="fill:#f9f9f9;stroke-width:0.245098"
+     d="M 62.885436,71.903221 C 62.388648,71.271657 62.377451,71.014787 62.377451,60.249923 V 49.242424 l 0.601604,-0.601604 0.601605,-0.601604 h 11.120377 11.120378 l 0.511682,0.55147 c 0.796383,0.85831 0.821128,1.877638 0.06396,2.634804 -0.474058,0.474058 -0.816994,0.490196 -10.416667,0.490196 h -9.92647 v 9.926471 c 0,9.599673 -0.01614,9.942609 -0.490197,10.416667 -0.729818,0.729818 -2.041772,0.653598 -2.678289,-0.155603 z"
+     id="path116" />
+  <path
+     style="fill:#f9f9f9;stroke-width:0.245098"
+     d="m 63.690441,121.33063 c -1.323118,-0.54663 -1.31299,-0.45154 -1.31299,-12.32768 V 98.016934 l 0.601604,-0.601604 c 0.766734,-0.766734 1.706529,-0.766734 2.473262,0 l 0.601605,0.601604 v 9.807086 9.80709 l 9.900984,0.0692 c 9.338439,0.0653 9.930283,0.0958 10.416666,0.53616 0.65397,0.59211 0.676661,1.85343 0.04733,2.63093 l -0.468356,0.57863 -10.867429,0.0508 c -5.977086,0.0279 -11.103789,-0.0469 -11.392674,-0.16622 z"
+     id="path117" />
+  <path
+     style="fill:#f9f9f9;stroke-width:0.245098"
+     d="m 132.68647,72.080662 -0.57863,-0.468359 -0.0692,-9.948308 -0.0693,-9.948309 h -9.80709 -9.80709 l -0.62899,-0.628992 c -0.50736,-0.507359 -0.59986,-0.779889 -0.47832,-1.409314 0.32601,-1.688338 -0.0496,-1.638164 12.26249,-1.638164 10.79021,0 11.09248,0.01294 11.61204,0.496979 0.29339,0.273339 0.59413,0.742089 0.66831,1.041667 0.0742,0.299578 0.10308,5.379873 0.0642,11.289545 l -0.0706,10.744857 -0.57862,0.468378 c -0.73895,0.598159 -1.78025,0.598167 -2.51922,2e-5 z"
+     id="path118" />
+  <path
+     style="fill:#f9f9f9;stroke-width:0.245098"
+     d="m 112.46495,121.32943 c -0.64266,-0.26404 -1.31299,-1.18044 -1.31299,-1.79498 0,-0.24998 0.3224,-0.77691 0.71644,-1.17095 l 0.71644,-0.71644 h 9.70023 9.70022 v -9.70023 -9.700224 l 0.71644,-0.71644 c 0.90805,-0.908047 1.58261,-0.906078 2.49598,0.0073 l 0.72373,0.723729 -0.0686,11.034355 -0.0686,11.03435 -0.55808,0.5581 -0.55809,0.55809 -10.83897,0.0496 c -5.96144,0.0273 -11.07533,-0.0475 -11.36422,-0.16622 z"
+     id="path119" />
+  <path
+     style="fill:#f9f9f9;stroke-width:0.245098"
+     d="m 132.77512,71.922376 c -0.54317,-0.380454 -0.54473,-0.403463 -0.54473,-8.050582 0,-4.21797 -0.0717,-8.678628 -0.15925,-9.912572 l -0.15925,-2.243536 h -9.7245 -9.72449 l -0.55045,-0.585926 c -0.39484,-0.420291 -0.52817,-0.818208 -0.47165,-1.407609 0.14308,-1.491845 0.25157,-1.505448 12.23718,-1.53445 l 10.71869,-0.02594 0.63255,0.594194 0.63254,0.594195 v 11.095339 11.095338 l -0.54473,0.381545 c -0.2996,0.20985 -0.82653,0.381546 -1.17095,0.381546 -0.34442,0 -0.87135,-0.171696 -1.17096,-0.381546 z"
+     id="path120" />
 </svg>

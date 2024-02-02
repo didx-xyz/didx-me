@@ -56,32 +56,7 @@ const App = () => {
   }
 
   const settings = [
-    {
-      header: {
-        title: t('Settings.Help'),
-        icon: { name: 'help' },
-      },
-      data: [
-        {
-          title: t('Settings.HelpUsingBCWallet'),
-          accessibilityLabel: t('Settings.HelpUsingBCWallet'),
-          testID: testIdWithKey('HelpUsingBCWallet'),
-          onPress: () => Linking.openURL(helpLink),
-        },
-        {
-          title: t('Settings.GiveFeedback'),
-          accessibilityLabel: t('Settings.GiveFeedback'),
-          testID: testIdWithKey('GiveFeedback'),
-          onPress: toggleSurveyVisibility,
-        },
-        {
-          title: t('Settings.ReportAProblem'),
-          accessibilityLabel: t('Settings.ReportAProblem'),
-          testID: testIdWithKey('ReportAProblem'),
-          onPress: toggleSurveyVisibility,
-        },
-      ],
-    },
+
     {
       header: {
         title: t('Settings.MoreInformation'),
@@ -100,12 +75,7 @@ const App = () => {
           testID: testIdWithKey('IntroductionToTheApp'),
           onPress: () => navigate(Stacks.SettingStack as never, { screen: Screens.Onboarding } as never),
         },
-        {
-          title: t('Settings.PlayWithBCWallet'),
-          accessibilityLabel: t('Settings.PlayWithBCWallet'),
-          testID: testIdWithKey('PlayWithBCWallet'),
-          onPress: () => Linking.openURL('https://digital.gov.bc.ca/digital-trust/showcase/'),
-        },
+
       ],
     },
   ]
