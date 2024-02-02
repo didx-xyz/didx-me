@@ -80,6 +80,12 @@ const translation = {
     "LinkDescription": "Get the DIDx Services Card app",
     "GetCredential": "Get your Person credential",
     "Decline": "Get this later",
+    "ServicesCardInstalled": "Step 1: DIDx Services Card app installed",
+    "InstallServicesCard": "Step 1: Install the DIDx Services Card app",
+    "InstallApp": "Install the app",
+    "AppOnOtherDevice": "I have it on another device",
+    "CreatePersonCred": "Step 2: Create your Person credential",
+    "StartProcess": "Start the process",
     "PageTitle": "Person Credential"
   },
   "NetInfo": {
