@@ -1,4 +1,4 @@
-package ca.bc.gov.BCWallet;
+package za.co.DIDx;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;

@@ -9,7 +9,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>ca.bc.gov.BCWallet</string>
+	<string>za.co.DIDx</string>
 	<key>PROJECT_ID</key>
 	<string>bc-wallet-mobile</string>
 	<key>STORAGE_BUCKET</key>

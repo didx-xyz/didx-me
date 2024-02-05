@@ -1,4 +1,4 @@
-package ca.bc.gov.BCWallet;
+package za.co.DIDx;
 
 import android.app.Application;
 import com.facebook.react.PackageList;

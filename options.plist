@@ -16,7 +16,7 @@
 	<true/>
 	<key>provisioningProfiles</key>
 	<dict>
-		<key>ca.bc.gov.BCWallet</key>
+		<key>za.co.DIDx</key>
 		<string>84752b1c-8c7c-4afc-8a0b-fffbf56cd390</string>
 	</dict>
 </dict>

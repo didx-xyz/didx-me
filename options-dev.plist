@@ -10,7 +10,7 @@
 	<string>development</string>
 	<key>provisioningProfiles</key>
 	<dict>
-		<key>ca.bc.gov.BCWallet</key>
+		<key>za.co.DIDx</key>
 		<string>BC Wallet - Development Jason</string>
 	</dict>
 	<key>signingCertificate</key>
